@@ -191,6 +191,11 @@ BaseXBar::Layer<SrcType, DstType>::tryTiming(SrcType* src_port)
     // first we see if the layer is busy, next we check if the
     // destination port is already engaged in a transaction waiting
     // for a retry from the peer
+    DPRINTF(CoherentXBar, "%s: Current waitingForLayer contents: ", __func__);
+    for (auto port : waitingForLayer) {
+    	DPRINTF(CoherentXBar, " %s ", port->name());
+	}
+    DPRINTF(CoherentXBar, "\n");
     if (state == BUSY || waitingForPeer != NULL) {
         // the port should not be waiting already
         assert(std::find(waitingForLayer.begin(), waitingForLayer.end(),
@@ -200,6 +205,11 @@ BaseXBar::Layer<SrcType, DstType>::tryTiming(SrcType* src_port)
         // layer to be freed up (and in the case of a busy peer, for
         // that transaction to go through, and then the layer to free
         // up)
+	//if(!(std::find(waitingForLayer.begin(), waitingForLayer.end(), src_port) == waitingForLayer.end())){
+	//	waitingForLayer.push_back(src_port);
+	//}else{
+	//	return false;
+	//}
         waitingForLayer.push_back(src_port);
         return false;
     }

@@ -38,6 +38,13 @@
  * OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 
+
+#include <vector>
+#include <queue>
+#include <unordered_set>
+
+#include <cmath>
+
 #include "mem/mem_ctrl.hh"
 
 #include "base/trace.hh"
@@ -46,10 +53,230 @@
 #include "debug/MemCtrl.hh"
 #include "debug/NVM.hh"
 #include "debug/QOS.hh"
+#include "mem/packet.hh"
 #include "mem/dram_interface.hh"
 #include "mem/mem_interface.hh"
 #include "mem/nvm_interface.hh"
+#include "mem/request.hh"
 #include "sim/system.hh"
+#include "base/debug.hh"
+#include "base/types.hh"
+
+
+
+const int N = 1; 
+
+const int baseCounter = 0x10000;
+
+const int baseNodes = 0x200;
+
+const int Leaves_size = 100;
+int Number_of_nodes_need_to_read = std::ceil(std::log2(Leaves_size));
+
+
+
+const uint64_t L2Delay = 3500;
+
+
+
+const uint64_t L3Delay = 25000;
+
+
+
+class AddressCache {
+public:
+    AddressCache(int size) : maxSize(size) {}
+
+    bool isInCache(gem5::Addr address) {
+        cacheAccesses++;
+        auto it = cacheSet.find(address);
+        if (it != cacheSet.end()) {
+            // Cache hit
+            return true;
+        } else {
+            // Cache miss
+            cacheMisses++;
+            if (cacheQueue.size() >= maxSize) {
+                gem5::Addr oldAddress = cacheQueue.front();
+                cacheQueue.pop();
+                cacheSet.erase(oldAddress);
+            }
+            cacheQueue.push(address);
+            cacheSet.insert(address);
+            return false;
+        }
+    }
+
+    double getMissRate() const {
+        if (cacheAccesses == 0) return 0.0;
+        return static_cast<double>(cacheMisses) / static_cast<double>(cacheAccesses);
+    }
+    void printCacheContents() const {
+        for (const auto& addr : cacheSet) {  // Assuming cacheSet is your cache data structure
+            DPRINTF(MemCtrl, "Cache Content: 0x%x\n", addr);
+        }
+    }
+
+
+private:
+    int maxSize;
+    std::queue<gem5::Addr> cacheQueue;
+    std::unordered_set<gem5::Addr> cacheSet;
+    int cacheMisses = 0;
+    int cacheAccesses = 0;
+};
+
+
+
+class DataCache {
+public:
+    DataCache(int size) : maxSize(size) {}
+    bool isInCache(gem5::Addr address) {
+        cacheAccesses++;
+        // Convert the address to a block address by ignoring the lower bits
+        gem5::Addr blockAddress = address >> 5;  // For 64-byte blocks, shift right by 6 bits
+
+        auto it = cacheSet.find(blockAddress);
+        if (it != cacheSet.end()) {
+            // Cache hit
+            // Move the block to the back of the queue to mark it as recently used
+            updateLRU(blockAddress);
+            return true;
+        } else {
+            // Cache miss
+            cacheMisses++;
+            if (cacheQueue.size() >= maxSize) {
+                // Evict the least recently used block
+                gem5::Addr oldBlockAddress = cacheQueue.front();
+                cacheQueue.pop();
+                cacheSet.erase(oldBlockAddress);
+            }
+            cacheQueue.push(blockAddress);
+            cacheSet.insert(blockAddress);
+            return false;
+        }
+    }
+
+    void updateLRU(gem5::Addr blockAddress) {
+        // Remove the block from its current position in the queue
+        std::queue<gem5::Addr> tempQueue;
+        while (!cacheQueue.empty()) {
+            gem5::Addr currentAddress = cacheQueue.front();
+            cacheQueue.pop();
+            if (currentAddress != blockAddress) {
+                tempQueue.push(currentAddress);
+            }
+        }
+
+        // Add the block to the back of the queue
+        tempQueue.push(blockAddress);
+        std::swap(cacheQueue, tempQueue);
+    }
+
+
+    double getMissRate() const {
+        if (cacheAccesses == 0) return 0.0;
+        return static_cast<double>(cacheMisses) / static_cast<double>(cacheAccesses);
+    }
+
+    void printCacheContents() const {
+        for (const auto& blockAddr : cacheSet) {
+            DPRINTF(MemCtrl, "Cache Block Content: 0x%x\n", blockAddr << 6);
+        }
+    }
+
+private:
+    int maxSize;
+    std::queue<gem5::Addr> cacheQueue;
+    std::unordered_set<gem5::Addr> cacheSet;
+    unsigned long long cacheAccesses = 0;
+    unsigned long long cacheMisses = 0;
+};
+
+
+
+
+class CounterCache {
+public:
+    CounterCache(int size) : maxSize(size) {}
+    bool isInCache(gem5::Addr address) {
+        cacheAccesses++;
+        // Convert the address to a block address by ignoring the lower bits
+        gem5::Addr blockAddress = address >> 6;  // For 64-byte blocks, shift right by 6 bits
+
+        auto it = cacheSet.find(blockAddress);
+        if (it != cacheSet.end()) {
+            // Cache hit
+            // Move the block to the back of the queue to mark it as recently used
+            updateLRU(blockAddress);
+            return true;
+        } else {
+            // Cache miss
+            cacheMisses++;
+            if (cacheQueue.size() >= maxSize) {
+                // Evict the least recently used block
+                gem5::Addr oldBlockAddress = cacheQueue.front();
+                cacheQueue.pop();
+                cacheSet.erase(oldBlockAddress);
+            }
+            cacheQueue.push(blockAddress);
+            cacheSet.insert(blockAddress);
+            return false;
+        }
+    }
+
+    void updateLRU(gem5::Addr blockAddress) {
+        // Remove the block from its current position in the queue
+        std::queue<gem5::Addr> tempQueue;
+        while (!cacheQueue.empty()) {
+            gem5::Addr currentAddress = cacheQueue.front();
+            cacheQueue.pop();
+            if (currentAddress != blockAddress) {
+                tempQueue.push(currentAddress);
+            }
+        }
+
+        // Add the block to the back of the queue
+        tempQueue.push(blockAddress);
+        std::swap(cacheQueue, tempQueue);
+    }
+
+
+    double getMissRate() const {
+        if (cacheAccesses == 0) return 0.0;
+        return static_cast<double>(cacheMisses) / static_cast<double>(cacheAccesses);
+    }
+
+    void printCacheContents() const {
+        for (const auto& blockAddr : cacheSet) {
+            DPRINTF(MemCtrl, "Cache Block Content: 0x%x\n", blockAddr << 6);
+        }
+    }
+
+private:
+    int maxSize;
+    std::queue<gem5::Addr> cacheQueue;
+    std::unordered_set<gem5::Addr> cacheSet;
+    unsigned long long cacheAccesses = 0;
+    unsigned long long cacheMisses = 0;
+};
+
+
+
+
+// Global cache object
+const int CACHE_SIZE = 131072/8; 
+
+const int L2_CACHE_SIZE = 4096; 
+
+const int L3_CACHE_SIZE = 131072; 
+CounterCache globalCache(CACHE_SIZE);
+
+DataCache L2Cache(L2_CACHE_SIZE);
+
+DataCache L3Cache(L3_CACHE_SIZE);
+
+
 
 namespace gem5
 {
@@ -106,6 +333,131 @@ MemCtrl::init()
     }
 }
 
+
+std::vector<Addr> addressMapping(Addr address) {
+    std::vector<Addr> addresses;
+    for (int i = 0; i < N; i++) {
+        addresses.push_back(address ^ (i + 1));
+    }
+    return addresses;
+}
+
+std::vector<Addr> addressMapping_MT(Addr address) {
+    std::vector<Addr> addresses;
+    for (int i = 0; i < Number_of_nodes_need_to_read; i++) {
+        addresses.push_back(address + (baseNodes + i));
+         // addresses.push_back(address ^ (i + 1));
+    }
+    return addresses;
+}
+
+
+// std::pair<std::vector<Addr>, std::vector<bool>> addressMapping_read(Addr address) {
+//     std::vector<Addr> addresses;
+//     std::vector<bool> cacheMisses;
+
+//     for (int i = 0; i < N; i++) {
+//         Addr counterAddr = address + (baseCounter + i);
+
+//         // Addr counterAddr = address ^ (i + 1);
+//         addresses.push_back(counterAddr);
+//         bool isMiss = !globalCache.isInCache(counterAddr);
+//         cacheMisses.push_back(isMiss);
+
+//         if (!isMiss) {
+//             DPRINTF(MemCtrl, "Cache Hit: 0x%x\n", counterAddr);
+//         } else {
+//             DPRINTF(MemCtrl, "Cache Miss: 0x%x\n", counterAddr);
+//         }
+//     }
+
+//     // Print the current cache miss rate
+//     DPRINTF(MemCtrl, "Current Cache Miss Rate: %.2f%%\n", globalCache.getMissRate() * 100);
+//     // globalCache.printCacheContents();
+
+//     return {addresses, cacheMisses};
+// }
+
+
+bool Counter_cache(Addr address){
+
+     bool isMiss = !globalCache.isInCache(address + baseCounter);
+     if (!isMiss) {
+        DPRINTF(MemCtrl, "Counter Cache Hit: 0x%x\n", address);
+    } else {
+        DPRINTF(MemCtrl, "Counter Cache Miss: 0x%x\n", address);
+    }
+    DPRINTF(MemCtrl, "Current Cache Miss Rate: %.2f%%\n", globalCache.getMissRate() * 100);
+
+    return isMiss;
+
+
+}
+
+bool L2_cache(Addr address){
+
+     bool isMiss = !L2Cache.isInCache(address);
+     if (!isMiss) {
+        DPRINTF(MemCtrl, "L2 Cache Hit: 0x%x\n", address);
+    } else {
+        DPRINTF(MemCtrl, "L2 Cache Miss: 0x%x\n", address);
+    }
+    DPRINTF(MemCtrl, "Current Cache Miss Rate: %.2f%%\n", L2Cache.getMissRate() * 100);
+
+    return isMiss;
+
+
+}
+
+bool L3_cache(Addr address){
+
+     bool isMiss = !L3Cache.isInCache(address);
+     if (!isMiss) {
+        DPRINTF(MemCtrl, "L3 Cache Hit: 0x%x\n", address);
+    } else {
+        DPRINTF(MemCtrl, "L3 Cache Miss: 0x%x\n", address);
+    }
+
+    DPRINTF(MemCtrl, "Current Cache Miss Rate: %.2f%%\n", L3Cache.getMissRate() * 100);
+
+    return isMiss;
+
+
+}
+
+
+
+
+std::vector<uint8_t> splitData(uint8_t data) {
+    std::vector<uint8_t> shares(N);
+
+    // Random number generator
+    std::random_device rd;
+    std::mt19937 gen(rd());
+    std::uniform_int_distribution<> dis(0, data / N);  // Ensure we don't generate values that would exceed the original data
+
+    // Generate N-1 random shares
+    uint8_t sum_shares = 0;
+    for (int i = 0; i < N - 1; i++) {
+        shares[i] = static_cast<uint8_t>(dis(gen));
+        sum_shares += shares[i];
+    }
+
+    // Calculate the Nth share such that the sum of all shares equals the original data
+    shares[N-1] = data - sum_shares;
+
+    return shares;
+}
+
+std::uint64_t reconstructData(const std::vector<uint8_t>& shares) {
+    uint8_t sum = 0;
+    for(const auto& share : shares) {
+        sum += share;
+    }
+    return sum;
+}
+
+
 void
 MemCtrl::startup()
 {
@@ -154,6 +506,10 @@ MemCtrl::recvAtomicLogic(PacketPtr pkt, MemInterface* mem_intr)
     return 0;
 }
 
+
+
+
+
 Tick
 MemCtrl::recvAtomicBackdoor(PacketPtr pkt, MemBackdoorPtr &backdoor)
 {
@@ -194,6 +550,9 @@ MemCtrl::addToReadQueue(PacketPtr pkt,
     assert(!pkt->isWrite());
 
     assert(pkt_count != 0);
+
+    DPRINTF(MemCtrl, "Received a read request for addr %#x of size %d\n",
+            pkt->getAddr(), pkt->getSize());
 
     // if the request size is larger than burst size, the pkt is split into
     // multiple packets
@@ -246,6 +605,8 @@ MemCtrl::addToReadQueue(PacketPtr pkt,
         // If not found in the write q, make a memory packet and
         // push it onto the read queue
         if (!foundInWrQ) {
+             DPRINTF(MemCtrl, "Read request for addr %#x not found in WriteQ, adding to ReadQ\n", addr);
+
 
             // Make the burst helper for split packets
             if (pkt_count > 1 && burst_helper == NULL) {
@@ -270,6 +631,7 @@ MemCtrl::addToReadQueue(PacketPtr pkt,
 
             DPRINTF(MemCtrl, "Adding to read queue\n");
 
+
             readQueue[mem_pkt->qosValue()].push_back(mem_pkt);
 
             // log packet
@@ -280,6 +642,8 @@ MemCtrl::addToReadQueue(PacketPtr pkt,
 
             // Update stats
             stats.avgRdQLen = totalReadQueueSize + respQueue.size();
+        }else{
+            DPRINTF(MemCtrl, "Read request for addr %#x serviced by WriteQ\n", addr);
         }
 
         // Starting address of next memory pkt (aligned to burst boundary)
@@ -308,6 +672,9 @@ MemCtrl::addToWriteQueue(PacketPtr pkt, unsigned int pkt_count,
     // eventually done, set the readyTime, and call schedule()
     assert(pkt->isWrite());
 
+    DPRINTF(MemCtrl, "Received a write request for addr %#x of size %d\n",
+            pkt->getAddr(), pkt->getSize());
+
     // if the request size is larger than burst size, the pkt is split into
     // multiple packets
     const Addr base_addr = pkt->getAddr();
@@ -329,6 +696,7 @@ MemCtrl::addToWriteQueue(PacketPtr pkt, unsigned int pkt_count,
         // if the item was not merged we need to create a new write
         // and enqueue it
         if (!merged) {
+            DPRINTF(MemCtrl, "Write request for addr %#x not merged, adding to WriteQ\n", addr);
             MemPacket* mem_pkt;
             mem_pkt = mem_intr->decodePacket(pkt, addr, size, false,
                                                     mem_intr->pseudoChannel);
@@ -376,6 +744,7 @@ MemCtrl::addToWriteQueue(PacketPtr pkt, unsigned int pkt_count,
     // @todo, if a pkt size is larger than burst size, we might need a
     // different front end latency
     accessAndRespond(pkt, frontendLatency, mem_intr);
+    DPRINTF(MemCtrl, "Finished processing write request for addr %#x\n", pkt->getAddr());
 }
 
 void
@@ -441,7 +810,7 @@ MemCtrl::recvTimingReq(PacketPtr pkt)
     // check local buffers and do not accept if full
     if (pkt->isWrite()) {
         assert(size != 0);
-        if (writeQueueFull(pkt_count)) {
+        if (writeQueueFull(pkt_count*N)) {
             DPRINTF(MemCtrl, "Write queue full, not accepting\n");
             // remember that we have to retry this port
             retryWrReq = true;
@@ -457,18 +826,109 @@ MemCtrl::recvTimingReq(PacketPtr pkt)
             }
             stats.writeReqs++;
             stats.bytesWrittenSys += size;
+	    
+
+        //     uint32_t context_id = pkt->req->requestorId();
+
+    	//     std::vector<Addr> addresses = addressMapping(pkt->getAddr());
+    	//     uint8_t originalValue = *pkt->getPtr<uint8_t>();
+    	//     std::vector<uint8_t> shares = splitData(originalValue);
+    	//     for (size_t i = 0; i < N; i++) {
+        // 		uint64_t addr = addresses[i];
+        //     	uint8_t share = shares[i];
+		//         DPRINTF(MemCtrl, "recvTimingReq:  processing addr at %s\n",addr);
+        // 		// Create a new packet for the share
+        //     	// Using the Packet constructor with the appropriate parameters
+        // 		Request::Flags flags;
+                        
+        // 		//flags.set(0x00002000|0x00001000);
+		// 	flags.set(0x00001000);
+        // 		RequestPtr req = std::make_shared<Request>(addr, 1, flags, context_id);
+        // 		PacketPtr new_pkt = new Packet(req, pkt->cmd);
+		// 	new_pkt->bespoke = 1;
+
+        // 		// Allocate data for the new packet and copy the share data
+        // 		new_pkt->allocate();
+        // 		memcpy(new_pkt->getPtr<uint8_t>(), &share, sizeof(share));
+
+        // 		addToWriteQueue(new_pkt, pkt_count, dram);
+
+        		
+        // 		// If we are not already scheduled to get a request out of the
+        //         	// queue, do so now
+        //     	if (!nextReqEvent.scheduled()) {
+        //         	DPRINTF(MemCtrl, "Request scheduled immediately\n");
+        //         	schedule(nextReqEvent, curTick());
+        //     	}
+        //     	stats.writeReqs++;
+        //     	stats.bytesWrittenSys += size;
+    	//     }
+	    // addToWriteQueue(pkt, pkt_count, dram);
+	    // stats.writeReqs++;
+        //     stats.bytesWrittenSys += size;
+
+            
         }
     } else {
         assert(pkt->isRead());
         assert(size != 0);
-        if (readQueueFull(pkt_count)) {
+        if (readQueueFull(pkt_count*N)) {
             DPRINTF(MemCtrl, "Read queue full, not accepting\n");
             // remember that we have to retry this port
             retryRdReq = true;
             stats.numRdRetry++;
             return false;
         } else {
-            if (!addToReadQueue(pkt, pkt_count, dram)) {
+
+            bool L2Miss = L2_cache(pkt->getAddr());
+
+            uint64_t  totalDelay = L2Delay;
+
+            if (L2Miss) {
+
+                bool L3Miss = L3_cache(pkt->getAddr());
+                if (L3Miss){
+                    totalDelay += L3Delay;
+
+                    bool CounterMiss = Counter_cache(pkt->getAddr());
+
+                    // if(CounterMiss){
+
+                    //     std::vector<uint64_t> MT_addresses = addressMapping_MT(pkt->getAddr());
+                    //     uint32_t context_id = pkt->req->requestorId();
+
+                    //     for (uint64_t addr : MT_addresses) {
+                    //         // Create a new packet for each read
+                    //         Request::Flags flags;
+                    //         //flags.set(0x00002000|0x00001000);
+                    //         flags.set(0x00001000);
+                    //         //flags.set(Request::DYNAMIC_DATA);
+                    //         RequestPtr req = std::make_shared<Request>(addr, 1, flags, context_id);
+                    //         PacketPtr new_pkt = new Packet(req, pkt->cmd);
+                    //         // Allocate data for the new packet and copy the share data
+                    //         new_pkt->allocate();
+                    //         new_pkt->bespoke = 1;
+                    //         //memcpy(new_pkt->getPtr<uint8_t>(), &share[0], share.size());
+
+                    //         addToReadQueue(new_pkt, pkt_count, dram);
+                    //         stats.readReqs++;
+                    //         stats.bytesReadSys += size;
+
+
+                    //     }
+
+
+                    // }
+                }
+
+            }
+
+            if (nextReqEvent.scheduled()) {
+                deschedule(nextReqEvent);
+            }
+            schedule(nextReqEvent, curTick() + totalDelay);
+
+        if (!addToReadQueue(pkt, pkt_count, dram)) {
                 // If we are not already scheduled to get a request out of the
                 // queue, do so now
                 if (!nextReqEvent.scheduled()) {
@@ -476,9 +936,10 @@ MemCtrl::recvTimingReq(PacketPtr pkt)
                     schedule(nextReqEvent, curTick());
                 }
             }
-            stats.readReqs++;
+	        stats.readReqs++;
             stats.bytesReadSys += size;
-        }
+            // uint8_t total = reconstructData(dataArray);
+	   }
     }
 
     return true;
@@ -622,7 +1083,15 @@ void
 MemCtrl::accessAndRespond(PacketPtr pkt, Tick static_latency,
                                                 MemInterface* mem_intr)
 {
-    DPRINTF(MemCtrl, "Responding to Address %#x.. \n", pkt->getAddr());
+    if(pkt->bespoke) 
+    {
+    	DPRINTF(MemCtrl, "BESPOKE, NOT Responding to Address %#x.. \n", pkt->getAddr());
+    }
+    else 
+    {
+    	DPRINTF(MemCtrl, "Responding to Address %#x.. \n", pkt->getAddr());
+    }
+	   
 
     bool needsResponse = pkt->needsResponse();
     // do the actual memory access which also turns the packet into a
@@ -632,25 +1101,30 @@ MemCtrl::accessAndRespond(PacketPtr pkt, Tick static_latency,
     mem_intr->access(pkt);
 
     // turn packet around to go back to requestor if response expected
-    if (needsResponse) {
-        // access already turned the packet into a response
-        assert(pkt->isResponse());
-        // response_time consumes the static latency and is charged also
-        // with headerDelay that takes into account the delay provided by
-        // the xbar and also the payloadDelay that takes into account the
-        // number of data beats.
-        Tick response_time = curTick() + static_latency + pkt->headerDelay +
-                             pkt->payloadDelay;
-        // Here we reset the timing of the packet before sending it out.
-        pkt->headerDelay = pkt->payloadDelay = 0;
+    if(!pkt->bespoke) {
+	    if (needsResponse) {
+		// access already turned the packet into a response
+		assert(pkt->isResponse());
+		// response_time consumes the static latency and is charged also
+		// with headerDelay that takes into account the delay provided by
+		// the xbar and also the payloadDelay that takes into account the
+		// number of data beats.
+		Tick response_time = curTick() + static_latency + pkt->headerDelay +
+				     pkt->payloadDelay;
+		// Here we reset the timing of the packet before sending it out.
+		pkt->headerDelay = pkt->payloadDelay = 0;
 
-        // queue the packet in the response queue to be sent out after
-        // the static latency has passed
-        port.schedTimingResp(pkt, response_time);
-    } else {
-        // @todo the packet is going to be deleted, and the MemPacket
-        // is still having a pointer to it
-        pendingDelete.reset(pkt);
+		// queue the packet in the response queue to be sent out after
+		// the static latency has passed
+		port.schedTimingResp(pkt, response_time);
+	    } else {
+		// @todo the packet is going to be deleted, and the MemPacket
+		// is still having a pointer to it
+		pendingDelete.reset(pkt);
+	    }
+    }else{
+    	//drainState() = DrainState::Draining;
+	delete pkt;
     }
 
     DPRINTF(MemCtrl, "Done\n");
@@ -932,10 +1406,9 @@ MemCtrl::processNextReqEvent(MemInterface* mem_intr,
 
     // when we get here it is either a read or a write
     if (mem_intr->busState == READ) {
-
         // track if we should switch or not
         bool switch_to_writes = false;
-
+	DPRINTF(MemCtrl,"ReadQueueSize = : %s\n",mem_intr->readQueueSize);
         if (mem_intr->readQueueSize == 0) {
             // In the case there is no read request to go next,
             // trigger writes if we have passed the low threshold (or
@@ -948,6 +1421,10 @@ MemCtrl::processNextReqEvent(MemInterface* mem_intr,
                         "Switching to writes due to read queue empty\n");
                 switch_to_writes = true;
             } else {
+		//DPRINTF(MemCtrl,"Drain state: %s\n",drainState() == DrainState::Running);
+               // DPRINTF(MemCtrl,"respQEmpty: %s\n",respQEmpty());
+               // DPRINTF(MemCtrl,"allIntfDrained: %s\n",allIntfDrained());
+
                 // check if we are drained
                 // not done draining until in PWR_IDLE state
                 // ensuring all banks are closed and
@@ -1439,6 +1916,7 @@ MemCtrl::drain()
             DPRINTF(Drain,"Scheduling nextReqEvent from drain\n");
             schedule(nextReqEvent, curTick());
         }
+	 DPRINTF(Drain,"Draining right now\n");
 
         dram->drainRanks();
 

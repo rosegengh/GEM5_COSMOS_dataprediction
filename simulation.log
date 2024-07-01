@@ -1,0 +1,11 @@
+usage: config.py [-h] [--cmd CMD]
+config.py: error: unrecognized arguments: $
+gem5 Simulator System.  https://www.gem5.org
+gem5 is copyrighted software; use the --copyright option for details.
+
+gem5 version 23.0.1.0
+gem5 compiled Feb  8 2024 13:55:52
+gem5 started Feb 14 2024 09:21:13
+gem5 executing on cse-seidel.cse.nd.edu, pid 1457715
+command line: build/X86/gem5.opt -d out --debug-flags=MemCtrl configs/scattered_memory_config/config.py --cmd=./scattered_memory/AlexNet '$'
+

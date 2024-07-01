@@ -1,0 +1,3240 @@
+Predict on chip?: false
+Counter Access Time: 7845947
+Counter Actually Miss: 57.9286%
+Percentage of Predict on Chip, Predict Correct: 20.764%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.8309%
+Percentage of Predict off Chip, Predict Incorrect: 11.5451%
+Prediction Data correctness percentage: 75.5949%
+Predict on chip?: false
+Counter Access Time: 7845948
+Counter Actually Miss: 57.9286%
+Percentage of Predict on Chip, Predict Correct: 20.764%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.8309%
+Percentage of Predict off Chip, Predict Incorrect: 11.5451%
+Prediction Data correctness percentage: 75.5949%
+Predict on chip?: false
+Counter Access Time: 7845949
+Counter Actually Miss: 57.9286%
+Percentage of Predict on Chip, Predict Correct: 20.764%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.8309%
+Percentage of Predict off Chip, Predict Incorrect: 11.5451%
+Prediction Data correctness percentage: 75.5949%
+Predict on chip?: false
+Counter Access Time: 7845950
+Counter Actually Miss: 57.9286%
+Percentage of Predict on Chip, Predict Correct: 20.764%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.8309%
+Percentage of Predict off Chip, Predict Incorrect: 11.5451%
+Prediction Data correctness percentage: 75.5949%
+Predict on chip?: false
+Counter Access Time: 7845951
+Counter Actually Miss: 57.9286%
+Percentage of Predict on Chip, Predict Correct: 20.764%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.831%
+Percentage of Predict off Chip, Predict Incorrect: 11.5451%
+Prediction Data correctness percentage: 75.5949%
+Predict on chip?: false
+Counter Access Time: 7845952
+Counter Actually Miss: 57.9286%
+Percentage of Predict on Chip, Predict Correct: 20.764%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.831%
+Percentage of Predict off Chip, Predict Incorrect: 11.5451%
+Prediction Data correctness percentage: 75.5949%
+Predict on chip?: false
+Counter Access Time: 7845953
+Counter Actually Miss: 57.9286%
+Percentage of Predict on Chip, Predict Correct: 20.764%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.831%
+Percentage of Predict off Chip, Predict Incorrect: 11.5451%
+Prediction Data correctness percentage: 75.595%
+Predict on chip?: false
+Counter Access Time: 7845954
+Counter Actually Miss: 57.9286%
+Percentage of Predict on Chip, Predict Correct: 20.764%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.831%
+Percentage of Predict off Chip, Predict Incorrect: 11.5451%
+Prediction Data correctness percentage: 75.595%
+Predict on chip?: false
+Counter Access Time: 7845955
+Counter Actually Miss: 57.9286%
+Percentage of Predict on Chip, Predict Correct: 20.764%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.831%
+Percentage of Predict off Chip, Predict Incorrect: 11.5451%
+Prediction Data correctness percentage: 75.595%
+Predict on chip?: false
+Counter Access Time: 7845956
+Counter Actually Miss: 57.9286%
+Percentage of Predict on Chip, Predict Correct: 20.764%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.831%
+Percentage of Predict off Chip, Predict Incorrect: 11.5451%
+Prediction Data correctness percentage: 75.595%
+Predict on chip?: false
+Counter Access Time: 7845957
+Counter Actually Miss: 57.9286%
+Percentage of Predict on Chip, Predict Correct: 20.764%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.831%
+Percentage of Predict off Chip, Predict Incorrect: 11.5451%
+Prediction Data correctness percentage: 75.595%
+Predict on chip?: false
+Counter Access Time: 7845958
+Counter Actually Miss: 57.9286%
+Percentage of Predict on Chip, Predict Correct: 20.764%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.831%
+Percentage of Predict off Chip, Predict Incorrect: 11.5451%
+Prediction Data correctness percentage: 75.595%
+Predict on chip?: false
+Counter Access Time: 7845959
+Counter Actually Miss: 57.9286%
+Percentage of Predict on Chip, Predict Correct: 20.764%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.831%
+Percentage of Predict off Chip, Predict Incorrect: 11.5451%
+Prediction Data correctness percentage: 75.595%
+Predict on chip?: false
+Counter Access Time: 7845960
+Counter Actually Miss: 57.9286%
+Percentage of Predict on Chip, Predict Correct: 20.764%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.831%
+Percentage of Predict off Chip, Predict Incorrect: 11.5451%
+Prediction Data correctness percentage: 75.595%
+Predict on chip?: false
+Counter Access Time: 7845961
+Counter Actually Miss: 57.9286%
+Percentage of Predict on Chip, Predict Correct: 20.764%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.831%
+Percentage of Predict off Chip, Predict Incorrect: 11.5451%
+Prediction Data correctness percentage: 75.595%
+Predict on chip?: false
+Counter Access Time: 7845962
+Counter Actually Miss: 57.9286%
+Percentage of Predict on Chip, Predict Correct: 20.764%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.831%
+Percentage of Predict off Chip, Predict Incorrect: 11.5451%
+Prediction Data correctness percentage: 75.595%
+Predict on chip?: false
+Counter Access Time: 7845963
+Counter Actually Miss: 57.9286%
+Percentage of Predict on Chip, Predict Correct: 20.764%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.831%
+Percentage of Predict off Chip, Predict Incorrect: 11.5451%
+Prediction Data correctness percentage: 75.595%
+Predict on chip?: false
+Counter Access Time: 7845964
+Counter Actually Miss: 57.9286%
+Percentage of Predict on Chip, Predict Correct: 20.764%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.831%
+Percentage of Predict off Chip, Predict Incorrect: 11.5451%
+Prediction Data correctness percentage: 75.595%
+Predict on chip?: false
+Counter Access Time: 7845965
+Counter Actually Miss: 57.9286%
+Percentage of Predict on Chip, Predict Correct: 20.764%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.831%
+Percentage of Predict off Chip, Predict Incorrect: 11.5451%
+Prediction Data correctness percentage: 75.595%
+Predict on chip?: false
+Counter Access Time: 7845966
+Counter Actually Miss: 57.9286%
+Percentage of Predict on Chip, Predict Correct: 20.764%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.831%
+Percentage of Predict off Chip, Predict Incorrect: 11.5451%
+Prediction Data correctness percentage: 75.595%
+Predict on chip?: false
+Counter Access Time: 7845967
+Counter Actually Miss: 57.9286%
+Percentage of Predict on Chip, Predict Correct: 20.764%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.831%
+Percentage of Predict off Chip, Predict Incorrect: 11.5451%
+Prediction Data correctness percentage: 75.595%
+Predict on chip?: false
+Counter Access Time: 7845968
+Counter Actually Miss: 57.9286%
+Percentage of Predict on Chip, Predict Correct: 20.764%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.831%
+Percentage of Predict off Chip, Predict Incorrect: 11.5451%
+Prediction Data correctness percentage: 75.595%
+Predict on chip?: false
+Counter Access Time: 7845969
+Counter Actually Miss: 57.9286%
+Percentage of Predict on Chip, Predict Correct: 20.764%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.831%
+Percentage of Predict off Chip, Predict Incorrect: 11.5451%
+Prediction Data correctness percentage: 75.595%
+Predict on chip?: false
+Counter Access Time: 7845970
+Counter Actually Miss: 57.9286%
+Percentage of Predict on Chip, Predict Correct: 20.764%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.831%
+Percentage of Predict off Chip, Predict Incorrect: 11.5451%
+Prediction Data correctness percentage: 75.595%
+Predict on chip?: false
+Counter Access Time: 7845971
+Counter Actually Miss: 57.9286%
+Percentage of Predict on Chip, Predict Correct: 20.764%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.831%
+Percentage of Predict off Chip, Predict Incorrect: 11.5451%
+Prediction Data correctness percentage: 75.595%
+Predict on chip?: false
+Counter Access Time: 7845972
+Counter Actually Miss: 57.9286%
+Percentage of Predict on Chip, Predict Correct: 20.7639%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.831%
+Percentage of Predict off Chip, Predict Incorrect: 11.5451%
+Prediction Data correctness percentage: 75.595%
+Predict on chip?: false
+Counter Access Time: 7845973
+Counter Actually Miss: 57.9286%
+Percentage of Predict on Chip, Predict Correct: 20.7639%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.8311%
+Percentage of Predict off Chip, Predict Incorrect: 11.5451%
+Prediction Data correctness percentage: 75.595%
+Predict on chip?: false
+Counter Access Time: 7845974
+Counter Actually Miss: 57.9287%
+Percentage of Predict on Chip, Predict Correct: 20.7639%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.8311%
+Percentage of Predict off Chip, Predict Incorrect: 11.5451%
+Prediction Data correctness percentage: 75.595%
+Predict on chip?: true
+Counter Access Time: 7845975
+Counter Actually Miss: 57.9287%
+Percentage of Predict on Chip, Predict Correct: 20.7639%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.8311%
+Percentage of Predict off Chip, Predict Incorrect: 11.5451%
+Prediction Data correctness percentage: 75.595%
+Predict on chip?: false
+Counter Access Time: 7845976
+Counter Actually Miss: 57.9287%
+Percentage of Predict on Chip, Predict Correct: 20.7639%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.8311%
+Percentage of Predict off Chip, Predict Incorrect: 11.5451%
+Prediction Data correctness percentage: 75.595%
+Predict on chip?: true
+Counter Access Time: 7845977
+Counter Actually Miss: 57.9287%
+Percentage of Predict on Chip, Predict Correct: 20.7639%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.8311%
+Percentage of Predict off Chip, Predict Incorrect: 11.5451%
+Prediction Data correctness percentage: 75.595%
+Predict on chip?: false
+Counter Access Time: 7845978
+Counter Actually Miss: 57.9287%
+Percentage of Predict on Chip, Predict Correct: 20.7639%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.8311%
+Percentage of Predict off Chip, Predict Incorrect: 11.5451%
+Prediction Data correctness percentage: 75.595%
+Predict on chip?: false
+Counter Access Time: 7845979
+Counter Actually Miss: 57.9287%
+Percentage of Predict on Chip, Predict Correct: 20.7639%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.8311%
+Percentage of Predict off Chip, Predict Incorrect: 11.5451%
+Prediction Data correctness percentage: 75.595%
+Predict on chip?: false
+Counter Access Time: 7845980
+Counter Actually Miss: 57.9287%
+Percentage of Predict on Chip, Predict Correct: 20.7639%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.8311%
+Percentage of Predict off Chip, Predict Incorrect: 11.5451%
+Prediction Data correctness percentage: 75.595%
+Predict on chip?: false
+Counter Access Time: 7845981
+Counter Actually Miss: 57.9287%
+Percentage of Predict on Chip, Predict Correct: 20.7639%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.8311%
+Percentage of Predict off Chip, Predict Incorrect: 11.5451%
+Prediction Data correctness percentage: 75.595%
+Predict on chip?: false
+Counter Access Time: 7845982
+Counter Actually Miss: 57.9287%
+Percentage of Predict on Chip, Predict Correct: 20.7639%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.8311%
+Percentage of Predict off Chip, Predict Incorrect: 11.5451%
+Prediction Data correctness percentage: 75.595%
+Predict on chip?: false
+Counter Access Time: 7845983
+Counter Actually Miss: 57.9287%
+Percentage of Predict on Chip, Predict Correct: 20.7639%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.8311%
+Percentage of Predict off Chip, Predict Incorrect: 11.5451%
+Prediction Data correctness percentage: 75.595%
+Predict on chip?: true
+Counter Access Time: 7845984
+Counter Actually Miss: 57.9287%
+Percentage of Predict on Chip, Predict Correct: 20.7639%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.8311%
+Percentage of Predict off Chip, Predict Incorrect: 11.5451%
+Prediction Data correctness percentage: 75.595%
+Predict on chip?: false
+Counter Access Time: 7845985
+Counter Actually Miss: 57.9287%
+Percentage of Predict on Chip, Predict Correct: 20.7639%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.8311%
+Percentage of Predict off Chip, Predict Incorrect: 11.5451%
+Prediction Data correctness percentage: 75.595%
+Predict on chip?: false
+Counter Access Time: 7845986
+Counter Actually Miss: 57.9287%
+Percentage of Predict on Chip, Predict Correct: 20.7639%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.8311%
+Percentage of Predict off Chip, Predict Incorrect: 11.5451%
+Prediction Data correctness percentage: 75.595%
+Predict on chip?: false
+Counter Access Time: 7845987
+Counter Actually Miss: 57.9287%
+Percentage of Predict on Chip, Predict Correct: 20.7639%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.8311%
+Percentage of Predict off Chip, Predict Incorrect: 11.5451%
+Prediction Data correctness percentage: 75.595%
+Predict on chip?: false
+Counter Access Time: 7845988
+Counter Actually Miss: 57.9287%
+Percentage of Predict on Chip, Predict Correct: 20.7639%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.8311%
+Percentage of Predict off Chip, Predict Incorrect: 11.5451%
+Prediction Data correctness percentage: 75.595%
+Predict on chip?: false
+Counter Access Time: 7845989
+Counter Actually Miss: 57.9287%
+Percentage of Predict on Chip, Predict Correct: 20.7639%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.8311%
+Percentage of Predict off Chip, Predict Incorrect: 11.5451%
+Prediction Data correctness percentage: 75.595%
+Predict on chip?: false
+Counter Access Time: 7845990
+Counter Actually Miss: 57.9287%
+Percentage of Predict on Chip, Predict Correct: 20.7639%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.8311%
+Percentage of Predict off Chip, Predict Incorrect: 11.5451%
+Prediction Data correctness percentage: 75.595%
+Predict on chip?: false
+Counter Access Time: 7845991
+Counter Actually Miss: 57.9287%
+Percentage of Predict on Chip, Predict Correct: 20.7639%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.8311%
+Percentage of Predict off Chip, Predict Incorrect: 11.5451%
+Prediction Data correctness percentage: 75.595%
+Predict on chip?: false
+Counter Access Time: 7845992
+Counter Actually Miss: 57.9287%
+Percentage of Predict on Chip, Predict Correct: 20.7639%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.8311%
+Percentage of Predict off Chip, Predict Incorrect: 11.5451%
+Prediction Data correctness percentage: 75.595%
+Predict on chip?: false
+Counter Access Time: 7845993
+Counter Actually Miss: 57.9287%
+Percentage of Predict on Chip, Predict Correct: 20.7639%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.8311%
+Percentage of Predict off Chip, Predict Incorrect: 11.5451%
+Prediction Data correctness percentage: 75.595%
+Predict on chip?: false
+Counter Access Time: 7845994
+Counter Actually Miss: 57.9287%
+Percentage of Predict on Chip, Predict Correct: 20.7639%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.8311%
+Percentage of Predict off Chip, Predict Incorrect: 11.5451%
+Prediction Data correctness percentage: 75.595%
+Predict on chip?: false
+Counter Access Time: 7845995
+Counter Actually Miss: 57.9287%
+Percentage of Predict on Chip, Predict Correct: 20.7639%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.8311%
+Percentage of Predict off Chip, Predict Incorrect: 11.5451%
+Prediction Data correctness percentage: 75.595%
+Predict on chip?: false
+Counter Access Time: 7845996
+Counter Actually Miss: 57.9287%
+Percentage of Predict on Chip, Predict Correct: 20.7639%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.8311%
+Percentage of Predict off Chip, Predict Incorrect: 11.5451%
+Prediction Data correctness percentage: 75.595%
+Predict on chip?: false
+Counter Access Time: 7845997
+Counter Actually Miss: 57.9287%
+Percentage of Predict on Chip, Predict Correct: 20.7639%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.8311%
+Percentage of Predict off Chip, Predict Incorrect: 11.5451%
+Prediction Data correctness percentage: 75.595%
+Predict on chip?: false
+Counter Access Time: 7845998
+Counter Actually Miss: 57.9287%
+Percentage of Predict on Chip, Predict Correct: 20.7639%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.8311%
+Percentage of Predict off Chip, Predict Incorrect: 11.5451%
+Prediction Data correctness percentage: 75.595%
+Predict on chip?: false
+Counter Access Time: 7845999
+Counter Actually Miss: 57.9287%
+Percentage of Predict on Chip, Predict Correct: 20.7639%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.8311%
+Percentage of Predict off Chip, Predict Incorrect: 11.5451%
+Prediction Data correctness percentage: 75.595%
+Predict on chip?: false
+Counter Access Time: 7846000
+Counter Actually Miss: 57.9288%
+Percentage of Predict on Chip, Predict Correct: 20.7639%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.8311%
+Percentage of Predict off Chip, Predict Incorrect: 11.5451%
+Prediction Data correctness percentage: 75.595%
+Predict on chip?: false
+Counter Access Time: 7846001
+Counter Actually Miss: 57.9288%
+Percentage of Predict on Chip, Predict Correct: 20.7639%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.8312%
+Percentage of Predict off Chip, Predict Incorrect: 11.5451%
+Prediction Data correctness percentage: 75.595%
+Predict on chip?: false
+Counter Access Time: 7846002
+Counter Actually Miss: 57.9288%
+Percentage of Predict on Chip, Predict Correct: 20.7639%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.8312%
+Percentage of Predict off Chip, Predict Incorrect: 11.5451%
+Prediction Data correctness percentage: 75.595%
+Predict on chip?: false
+Counter Access Time: 7846003
+Counter Actually Miss: 57.9288%
+Percentage of Predict on Chip, Predict Correct: 20.7639%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.8312%
+Percentage of Predict off Chip, Predict Incorrect: 11.5451%
+Prediction Data correctness percentage: 75.595%
+Predict on chip?: false
+Counter Access Time: 7846004
+Counter Actually Miss: 57.9288%
+Percentage of Predict on Chip, Predict Correct: 20.7639%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.8312%
+Percentage of Predict off Chip, Predict Incorrect: 11.5451%
+Prediction Data correctness percentage: 75.595%
+Predict on chip?: false
+Counter Access Time: 7846005
+Counter Actually Miss: 57.9288%
+Percentage of Predict on Chip, Predict Correct: 20.7639%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.8312%
+Percentage of Predict off Chip, Predict Incorrect: 11.5451%
+Prediction Data correctness percentage: 75.595%
+Predict on chip?: false
+Counter Access Time: 7846006
+Counter Actually Miss: 57.9288%
+Percentage of Predict on Chip, Predict Correct: 20.7639%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.8312%
+Percentage of Predict off Chip, Predict Incorrect: 11.5451%
+Prediction Data correctness percentage: 75.5951%
+Predict on chip?: false
+Counter Access Time: 7846007
+Counter Actually Miss: 57.9288%
+Percentage of Predict on Chip, Predict Correct: 20.7639%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.8312%
+Percentage of Predict off Chip, Predict Incorrect: 11.5451%
+Prediction Data correctness percentage: 75.5951%
+Predict on chip?: false
+Counter Access Time: 7846008
+Counter Actually Miss: 57.9288%
+Percentage of Predict on Chip, Predict Correct: 20.7639%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.8312%
+Percentage of Predict off Chip, Predict Incorrect: 11.5451%
+Prediction Data correctness percentage: 75.5951%
+Predict on chip?: false
+Counter Access Time: 7846009
+Counter Actually Miss: 57.9288%
+Percentage of Predict on Chip, Predict Correct: 20.7639%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.8312%
+Percentage of Predict off Chip, Predict Incorrect: 11.5451%
+Prediction Data correctness percentage: 75.5951%
+Predict on chip?: false
+Counter Access Time: 7846010
+Counter Actually Miss: 57.9288%
+Percentage of Predict on Chip, Predict Correct: 20.7639%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.8312%
+Percentage of Predict off Chip, Predict Incorrect: 11.5451%
+Prediction Data correctness percentage: 75.5951%
+Predict on chip?: false
+Counter Access Time: 7846011
+Counter Actually Miss: 57.9288%
+Percentage of Predict on Chip, Predict Correct: 20.7639%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.8312%
+Percentage of Predict off Chip, Predict Incorrect: 11.5451%
+Prediction Data correctness percentage: 75.5951%
+Predict on chip?: false
+Counter Access Time: 7846012
+Counter Actually Miss: 57.9288%
+Percentage of Predict on Chip, Predict Correct: 20.7639%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.8312%
+Percentage of Predict off Chip, Predict Incorrect: 11.5451%
+Prediction Data correctness percentage: 75.5951%
+Predict on chip?: false
+Counter Access Time: 7846013
+Counter Actually Miss: 57.9288%
+Percentage of Predict on Chip, Predict Correct: 20.7639%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.8312%
+Percentage of Predict off Chip, Predict Incorrect: 11.5451%
+Prediction Data correctness percentage: 75.5951%
+Predict on chip?: false
+Counter Access Time: 7846014
+Counter Actually Miss: 57.9288%
+Percentage of Predict on Chip, Predict Correct: 20.7639%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.8312%
+Percentage of Predict off Chip, Predict Incorrect: 11.5451%
+Prediction Data correctness percentage: 75.5951%
+Predict on chip?: false
+Counter Access Time: 7846015
+Counter Actually Miss: 57.9288%
+Percentage of Predict on Chip, Predict Correct: 20.7639%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.8312%
+Percentage of Predict off Chip, Predict Incorrect: 11.5451%
+Prediction Data correctness percentage: 75.5951%
+Predict on chip?: false
+Counter Access Time: 7846016
+Counter Actually Miss: 57.9288%
+Percentage of Predict on Chip, Predict Correct: 20.7639%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.8312%
+Percentage of Predict off Chip, Predict Incorrect: 11.5451%
+Prediction Data correctness percentage: 75.5951%
+Predict on chip?: false
+Counter Access Time: 7846017
+Counter Actually Miss: 57.9288%
+Percentage of Predict on Chip, Predict Correct: 20.7639%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.8312%
+Percentage of Predict off Chip, Predict Incorrect: 11.5451%
+Prediction Data correctness percentage: 75.5951%
+Predict on chip?: false
+Counter Access Time: 7846018
+Counter Actually Miss: 57.9288%
+Percentage of Predict on Chip, Predict Correct: 20.7639%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.8312%
+Percentage of Predict off Chip, Predict Incorrect: 11.5451%
+Prediction Data correctness percentage: 75.5951%
+Predict on chip?: false
+Counter Access Time: 7846019
+Counter Actually Miss: 57.9288%
+Percentage of Predict on Chip, Predict Correct: 20.7639%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.8312%
+Percentage of Predict off Chip, Predict Incorrect: 11.5451%
+Prediction Data correctness percentage: 75.5951%
+Predict on chip?: false
+Counter Access Time: 7846020
+Counter Actually Miss: 57.9288%
+Percentage of Predict on Chip, Predict Correct: 20.7638%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.8312%
+Percentage of Predict off Chip, Predict Incorrect: 11.545%
+Prediction Data correctness percentage: 75.5951%
+Predict on chip?: false
+Counter Access Time: 7846021
+Counter Actually Miss: 57.9288%
+Percentage of Predict on Chip, Predict Correct: 20.7638%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.8312%
+Percentage of Predict off Chip, Predict Incorrect: 11.545%
+Prediction Data correctness percentage: 75.5951%
+Predict on chip?: false
+Counter Access Time: 7846022
+Counter Actually Miss: 57.9288%
+Percentage of Predict on Chip, Predict Correct: 20.7638%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.8312%
+Percentage of Predict off Chip, Predict Incorrect: 11.545%
+Prediction Data correctness percentage: 75.5951%
+Predict on chip?: false
+Counter Access Time: 7846023
+Counter Actually Miss: 57.9288%
+Percentage of Predict on Chip, Predict Correct: 20.7638%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.8313%
+Percentage of Predict off Chip, Predict Incorrect: 11.545%
+Prediction Data correctness percentage: 75.5951%
+Predict on chip?: false
+Counter Access Time: 7846024
+Counter Actually Miss: 57.9288%
+Percentage of Predict on Chip, Predict Correct: 20.7638%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.8313%
+Percentage of Predict off Chip, Predict Incorrect: 11.545%
+Prediction Data correctness percentage: 75.5951%
+Predict on chip?: false
+Counter Access Time: 7846025
+Counter Actually Miss: 57.9288%
+Percentage of Predict on Chip, Predict Correct: 20.7638%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.8313%
+Percentage of Predict off Chip, Predict Incorrect: 11.545%
+Prediction Data correctness percentage: 75.5951%
+Predict on chip?: false
+Counter Access Time: 7846026
+Counter Actually Miss: 57.9288%
+Percentage of Predict on Chip, Predict Correct: 20.7638%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.8313%
+Percentage of Predict off Chip, Predict Incorrect: 11.545%
+Prediction Data correctness percentage: 75.5951%
+Predict on chip?: false
+Counter Access Time: 7846027
+Counter Actually Miss: 57.9288%
+Percentage of Predict on Chip, Predict Correct: 20.7638%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.8313%
+Percentage of Predict off Chip, Predict Incorrect: 11.545%
+Prediction Data correctness percentage: 75.5951%
+Predict on chip?: true
+Counter Access Time: 7846028
+Counter Actually Miss: 57.9288%
+Percentage of Predict on Chip, Predict Correct: 20.7638%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.8313%
+Percentage of Predict off Chip, Predict Incorrect: 11.545%
+Prediction Data correctness percentage: 75.5951%
+Predict on chip?: false
+Counter Access Time: 7846029
+Counter Actually Miss: 57.9288%
+Percentage of Predict on Chip, Predict Correct: 20.7638%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.8313%
+Percentage of Predict off Chip, Predict Incorrect: 11.545%
+Prediction Data correctness percentage: 75.5951%
+Predict on chip?: false
+Counter Access Time: 7846030
+Counter Actually Miss: 57.9289%
+Percentage of Predict on Chip, Predict Correct: 20.7638%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.8313%
+Percentage of Predict off Chip, Predict Incorrect: 11.545%
+Prediction Data correctness percentage: 75.5951%
+Predict on chip?: false
+Counter Access Time: 7846031
+Counter Actually Miss: 57.9289%
+Percentage of Predict on Chip, Predict Correct: 20.7638%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.8313%
+Percentage of Predict off Chip, Predict Incorrect: 11.545%
+Prediction Data correctness percentage: 75.5951%
+Predict on chip?: false
+Counter Access Time: 7846032
+Counter Actually Miss: 57.9288%
+Percentage of Predict on Chip, Predict Correct: 20.7638%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.8313%
+Percentage of Predict off Chip, Predict Incorrect: 11.545%
+Prediction Data correctness percentage: 75.5951%
+Predict on chip?: false
+Counter Access Time: 7846033
+Counter Actually Miss: 57.9289%
+Percentage of Predict on Chip, Predict Correct: 20.7638%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.8313%
+Percentage of Predict off Chip, Predict Incorrect: 11.545%
+Prediction Data correctness percentage: 75.5951%
+Predict on chip?: false
+Counter Access Time: 7846034
+Counter Actually Miss: 57.9289%
+Percentage of Predict on Chip, Predict Correct: 20.7638%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.8313%
+Percentage of Predict off Chip, Predict Incorrect: 11.545%
+Prediction Data correctness percentage: 75.5951%
+Predict on chip?: false
+Counter Access Time: 7846035
+Counter Actually Miss: 57.9289%
+Percentage of Predict on Chip, Predict Correct: 20.7638%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.8313%
+Percentage of Predict off Chip, Predict Incorrect: 11.545%
+Prediction Data correctness percentage: 75.5951%
+Predict on chip?: false
+Counter Access Time: 7846036
+Counter Actually Miss: 57.9289%
+Percentage of Predict on Chip, Predict Correct: 20.7638%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.8313%
+Percentage of Predict off Chip, Predict Incorrect: 11.545%
+Prediction Data correctness percentage: 75.5951%
+Predict on chip?: false
+Counter Access Time: 7846037
+Counter Actually Miss: 57.9289%
+Percentage of Predict on Chip, Predict Correct: 20.7638%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.8313%
+Percentage of Predict off Chip, Predict Incorrect: 11.545%
+Prediction Data correctness percentage: 75.5951%
+Predict on chip?: false
+Counter Access Time: 7846038
+Counter Actually Miss: 57.9289%
+Percentage of Predict on Chip, Predict Correct: 20.7638%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.8313%
+Percentage of Predict off Chip, Predict Incorrect: 11.545%
+Prediction Data correctness percentage: 75.5951%
+Predict on chip?: false
+Counter Access Time: 7846039
+Counter Actually Miss: 57.9289%
+Percentage of Predict on Chip, Predict Correct: 20.7638%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.8313%
+Percentage of Predict off Chip, Predict Incorrect: 11.545%
+Prediction Data correctness percentage: 75.5951%
+Predict on chip?: false
+Counter Access Time: 7846040
+Counter Actually Miss: 57.9289%
+Percentage of Predict on Chip, Predict Correct: 20.7638%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8313%
+Percentage of Predict off Chip, Predict Incorrect: 11.545%
+Prediction Data correctness percentage: 75.5951%
+Predict on chip?: false
+Counter Access Time: 7846041
+Counter Actually Miss: 57.9289%
+Percentage of Predict on Chip, Predict Correct: 20.7638%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8313%
+Percentage of Predict off Chip, Predict Incorrect: 11.545%
+Prediction Data correctness percentage: 75.5951%
+Predict on chip?: false
+Counter Access Time: 7846042
+Counter Actually Miss: 57.9289%
+Percentage of Predict on Chip, Predict Correct: 20.7638%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8313%
+Percentage of Predict off Chip, Predict Incorrect: 11.545%
+Prediction Data correctness percentage: 75.5951%
+Predict on chip?: false
+Counter Access Time: 7846043
+Counter Actually Miss: 57.9289%
+Percentage of Predict on Chip, Predict Correct: 20.7638%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8313%
+Percentage of Predict off Chip, Predict Incorrect: 11.545%
+Prediction Data correctness percentage: 75.5951%
+Predict on chip?: false
+Counter Access Time: 7846044
+Counter Actually Miss: 57.9289%
+Percentage of Predict on Chip, Predict Correct: 20.7638%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8313%
+Percentage of Predict off Chip, Predict Incorrect: 11.545%
+Prediction Data correctness percentage: 75.5951%
+Predict on chip?: false
+Counter Access Time: 7846045
+Counter Actually Miss: 57.9289%
+Percentage of Predict on Chip, Predict Correct: 20.7638%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8313%
+Percentage of Predict off Chip, Predict Incorrect: 11.545%
+Prediction Data correctness percentage: 75.5951%
+Predict on chip?: true
+Counter Access Time: 7846046
+Counter Actually Miss: 57.9289%
+Percentage of Predict on Chip, Predict Correct: 20.7638%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.8313%
+Percentage of Predict off Chip, Predict Incorrect: 11.545%
+Prediction Data correctness percentage: 75.5951%
+Predict on chip?: false
+Counter Access Time: 7846047
+Counter Actually Miss: 57.9289%
+Percentage of Predict on Chip, Predict Correct: 20.7638%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.8313%
+Percentage of Predict off Chip, Predict Incorrect: 11.545%
+Prediction Data correctness percentage: 75.5951%
+Predict on chip?: false
+Counter Access Time: 7846048
+Counter Actually Miss: 57.9289%
+Percentage of Predict on Chip, Predict Correct: 20.7638%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8313%
+Percentage of Predict off Chip, Predict Incorrect: 11.545%
+Prediction Data correctness percentage: 75.5951%
+Predict on chip?: false
+Counter Access Time: 7846049
+Counter Actually Miss: 57.9289%
+Percentage of Predict on Chip, Predict Correct: 20.7638%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8313%
+Percentage of Predict off Chip, Predict Incorrect: 11.545%
+Prediction Data correctness percentage: 75.5951%
+Predict on chip?: false
+Counter Access Time: 7846050
+Counter Actually Miss: 57.9289%
+Percentage of Predict on Chip, Predict Correct: 20.7638%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8314%
+Percentage of Predict off Chip, Predict Incorrect: 11.545%
+Prediction Data correctness percentage: 75.5951%
+Predict on chip?: false
+Counter Access Time: 7846051
+Counter Actually Miss: 57.9289%
+Percentage of Predict on Chip, Predict Correct: 20.7638%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8314%
+Percentage of Predict off Chip, Predict Incorrect: 11.545%
+Prediction Data correctness percentage: 75.5951%
+Predict on chip?: true
+Counter Access Time: 7846052
+Counter Actually Miss: 57.9289%
+Percentage of Predict on Chip, Predict Correct: 20.7638%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.8314%
+Percentage of Predict off Chip, Predict Incorrect: 11.545%
+Prediction Data correctness percentage: 75.5951%
+Predict on chip?: false
+Counter Access Time: 7846053
+Counter Actually Miss: 57.9289%
+Percentage of Predict on Chip, Predict Correct: 20.7638%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.8314%
+Percentage of Predict off Chip, Predict Incorrect: 11.545%
+Prediction Data correctness percentage: 75.5951%
+Predict on chip?: false
+Counter Access Time: 7846054
+Counter Actually Miss: 57.9289%
+Percentage of Predict on Chip, Predict Correct: 20.7638%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.8314%
+Percentage of Predict off Chip, Predict Incorrect: 11.545%
+Prediction Data correctness percentage: 75.5951%
+Predict on chip?: true
+Counter Access Time: 7846055
+Counter Actually Miss: 57.9289%
+Percentage of Predict on Chip, Predict Correct: 20.7638%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.8314%
+Percentage of Predict off Chip, Predict Incorrect: 11.545%
+Prediction Data correctness percentage: 75.5951%
+Predict on chip?: false
+Counter Access Time: 7846056
+Counter Actually Miss: 57.9289%
+Percentage of Predict on Chip, Predict Correct: 20.7638%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.8314%
+Percentage of Predict off Chip, Predict Incorrect: 11.545%
+Prediction Data correctness percentage: 75.5951%
+Predict on chip?: false
+Counter Access Time: 7846057
+Counter Actually Miss: 57.9289%
+Percentage of Predict on Chip, Predict Correct: 20.7638%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.8314%
+Percentage of Predict off Chip, Predict Incorrect: 11.545%
+Prediction Data correctness percentage: 75.5951%
+Predict on chip?: false
+Counter Access Time: 7846058
+Counter Actually Miss: 57.9289%
+Percentage of Predict on Chip, Predict Correct: 20.7638%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.8314%
+Percentage of Predict off Chip, Predict Incorrect: 11.545%
+Prediction Data correctness percentage: 75.5951%
+Predict on chip?: false
+Counter Access Time: 7846059
+Counter Actually Miss: 57.9289%
+Percentage of Predict on Chip, Predict Correct: 20.7638%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.8314%
+Percentage of Predict off Chip, Predict Incorrect: 11.545%
+Prediction Data correctness percentage: 75.5951%
+Predict on chip?: false
+Counter Access Time: 7846060
+Counter Actually Miss: 57.9289%
+Percentage of Predict on Chip, Predict Correct: 20.7638%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.8314%
+Percentage of Predict off Chip, Predict Incorrect: 11.545%
+Prediction Data correctness percentage: 75.5951%
+Predict on chip?: true
+Counter Access Time: 7846061
+Counter Actually Miss: 57.9289%
+Percentage of Predict on Chip, Predict Correct: 20.7638%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.8314%
+Percentage of Predict off Chip, Predict Incorrect: 11.545%
+Prediction Data correctness percentage: 75.5951%
+Predict on chip?: false
+Counter Access Time: 7846062
+Counter Actually Miss: 57.9289%
+Percentage of Predict on Chip, Predict Correct: 20.7638%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.8314%
+Percentage of Predict off Chip, Predict Incorrect: 11.545%
+Prediction Data correctness percentage: 75.5951%
+Predict on chip?: false
+Counter Access Time: 7846063
+Counter Actually Miss: 57.929%
+Percentage of Predict on Chip, Predict Correct: 20.7638%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.8314%
+Percentage of Predict off Chip, Predict Incorrect: 11.545%
+Prediction Data correctness percentage: 75.5951%
+Predict on chip?: false
+Counter Access Time: 7846064
+Counter Actually Miss: 57.929%
+Percentage of Predict on Chip, Predict Correct: 20.7638%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.8314%
+Percentage of Predict off Chip, Predict Incorrect: 11.545%
+Prediction Data correctness percentage: 75.5951%
+Predict on chip?: false
+Counter Access Time: 7846065
+Counter Actually Miss: 57.9289%
+Percentage of Predict on Chip, Predict Correct: 20.7638%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.8314%
+Percentage of Predict off Chip, Predict Incorrect: 11.545%
+Prediction Data correctness percentage: 75.5951%
+Predict on chip?: false
+Counter Access Time: 7846066
+Counter Actually Miss: 57.929%
+Percentage of Predict on Chip, Predict Correct: 20.7638%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.8314%
+Percentage of Predict off Chip, Predict Incorrect: 11.545%
+Prediction Data correctness percentage: 75.5951%
+Predict on chip?: false
+Counter Access Time: 7846067
+Counter Actually Miss: 57.9289%
+Percentage of Predict on Chip, Predict Correct: 20.7637%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.8314%
+Percentage of Predict off Chip, Predict Incorrect: 11.545%
+Prediction Data correctness percentage: 75.5952%
+Predict on chip?: false
+Counter Access Time: 7846068
+Counter Actually Miss: 57.929%
+Percentage of Predict on Chip, Predict Correct: 20.7637%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.8314%
+Percentage of Predict off Chip, Predict Incorrect: 11.545%
+Prediction Data correctness percentage: 75.5952%
+Predict on chip?: false
+Counter Access Time: 7846069
+Counter Actually Miss: 57.929%
+Percentage of Predict on Chip, Predict Correct: 20.7637%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.8314%
+Percentage of Predict off Chip, Predict Incorrect: 11.545%
+Prediction Data correctness percentage: 75.5952%
+Predict on chip?: false
+Counter Access Time: 7846070
+Counter Actually Miss: 57.929%
+Percentage of Predict on Chip, Predict Correct: 20.7637%
+Percentage of Predict on Chip, Predict Incorrect: 12.8599%
+Percentage of Predict off Chip, Predict Correct: 54.8314%
+Percentage of Predict off Chip, Predict Incorrect: 11.545%
+Prediction Data correctness percentage: 75.5952%
+Predict on chip?: false
+Counter Access Time: 7846071
+Counter Actually Miss: 57.9289%
+Percentage of Predict on Chip, Predict Correct: 20.7637%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8314%
+Percentage of Predict off Chip, Predict Incorrect: 11.545%
+Prediction Data correctness percentage: 75.5952%
+Predict on chip?: false
+Counter Access Time: 7846072
+Counter Actually Miss: 57.9289%
+Percentage of Predict on Chip, Predict Correct: 20.7637%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8314%
+Percentage of Predict off Chip, Predict Incorrect: 11.545%
+Prediction Data correctness percentage: 75.5952%
+Predict on chip?: false
+Counter Access Time: 7846073
+Counter Actually Miss: 57.929%
+Percentage of Predict on Chip, Predict Correct: 20.7637%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8314%
+Percentage of Predict off Chip, Predict Incorrect: 11.545%
+Prediction Data correctness percentage: 75.5952%
+Predict on chip?: false
+Counter Access Time: 7846074
+Counter Actually Miss: 57.929%
+Percentage of Predict on Chip, Predict Correct: 20.7637%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8314%
+Percentage of Predict off Chip, Predict Incorrect: 11.545%
+Prediction Data correctness percentage: 75.5952%
+Predict on chip?: false
+Counter Access Time: 7846075
+Counter Actually Miss: 57.929%
+Percentage of Predict on Chip, Predict Correct: 20.7637%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8314%
+Percentage of Predict off Chip, Predict Incorrect: 11.545%
+Prediction Data correctness percentage: 75.5952%
+Predict on chip?: false
+Counter Access Time: 7846076
+Counter Actually Miss: 57.929%
+Percentage of Predict on Chip, Predict Correct: 20.7637%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8314%
+Percentage of Predict off Chip, Predict Incorrect: 11.545%
+Prediction Data correctness percentage: 75.5952%
+Predict on chip?: false
+Counter Access Time: 7846077
+Counter Actually Miss: 57.929%
+Percentage of Predict on Chip, Predict Correct: 20.7637%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8314%
+Percentage of Predict off Chip, Predict Incorrect: 11.545%
+Prediction Data correctness percentage: 75.5952%
+Predict on chip?: false
+Counter Access Time: 7846078
+Counter Actually Miss: 57.929%
+Percentage of Predict on Chip, Predict Correct: 20.7637%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8315%
+Percentage of Predict off Chip, Predict Incorrect: 11.545%
+Prediction Data correctness percentage: 75.5952%
+Predict on chip?: false
+Counter Access Time: 7846079
+Counter Actually Miss: 57.929%
+Percentage of Predict on Chip, Predict Correct: 20.7637%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8315%
+Percentage of Predict off Chip, Predict Incorrect: 11.545%
+Prediction Data correctness percentage: 75.5952%
+Predict on chip?: false
+Counter Access Time: 7846080
+Counter Actually Miss: 57.929%
+Percentage of Predict on Chip, Predict Correct: 20.7637%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8315%
+Percentage of Predict off Chip, Predict Incorrect: 11.545%
+Prediction Data correctness percentage: 75.5952%
+Predict on chip?: false
+Counter Access Time: 7846081
+Counter Actually Miss: 57.929%
+Percentage of Predict on Chip, Predict Correct: 20.7637%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8315%
+Percentage of Predict off Chip, Predict Incorrect: 11.545%
+Prediction Data correctness percentage: 75.5952%
+Predict on chip?: false
+Counter Access Time: 7846082
+Counter Actually Miss: 57.929%
+Percentage of Predict on Chip, Predict Correct: 20.7637%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8315%
+Percentage of Predict off Chip, Predict Incorrect: 11.545%
+Prediction Data correctness percentage: 75.5952%
+Predict on chip?: false
+Counter Access Time: 7846083
+Counter Actually Miss: 57.929%
+Percentage of Predict on Chip, Predict Correct: 20.7637%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8315%
+Percentage of Predict off Chip, Predict Incorrect: 11.545%
+Prediction Data correctness percentage: 75.5952%
+Predict on chip?: false
+Counter Access Time: 7846084
+Counter Actually Miss: 57.929%
+Percentage of Predict on Chip, Predict Correct: 20.7637%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8315%
+Percentage of Predict off Chip, Predict Incorrect: 11.545%
+Prediction Data correctness percentage: 75.5952%
+Predict on chip?: false
+Counter Access Time: 7846085
+Counter Actually Miss: 57.929%
+Percentage of Predict on Chip, Predict Correct: 20.7637%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8315%
+Percentage of Predict off Chip, Predict Incorrect: 11.545%
+Prediction Data correctness percentage: 75.5952%
+Predict on chip?: false
+Counter Access Time: 7846086
+Counter Actually Miss: 57.929%
+Percentage of Predict on Chip, Predict Correct: 20.7637%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8315%
+Percentage of Predict off Chip, Predict Incorrect: 11.545%
+Prediction Data correctness percentage: 75.5952%
+Predict on chip?: false
+Counter Access Time: 7846087
+Counter Actually Miss: 57.929%
+Percentage of Predict on Chip, Predict Correct: 20.7637%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8315%
+Percentage of Predict off Chip, Predict Incorrect: 11.545%
+Prediction Data correctness percentage: 75.5952%
+Predict on chip?: true
+Counter Access Time: 7846088
+Counter Actually Miss: 57.929%
+Percentage of Predict on Chip, Predict Correct: 20.7637%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8315%
+Percentage of Predict off Chip, Predict Incorrect: 11.545%
+Prediction Data correctness percentage: 75.5952%
+Predict on chip?: false
+Counter Access Time: 7846089
+Counter Actually Miss: 57.929%
+Percentage of Predict on Chip, Predict Correct: 20.7637%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8315%
+Percentage of Predict off Chip, Predict Incorrect: 11.545%
+Prediction Data correctness percentage: 75.5952%
+Predict on chip?: false
+Counter Access Time: 7846090
+Counter Actually Miss: 57.929%
+Percentage of Predict on Chip, Predict Correct: 20.7637%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8315%
+Percentage of Predict off Chip, Predict Incorrect: 11.545%
+Prediction Data correctness percentage: 75.5952%
+Predict on chip?: false
+Counter Access Time: 7846091
+Counter Actually Miss: 57.929%
+Percentage of Predict on Chip, Predict Correct: 20.7637%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8315%
+Percentage of Predict off Chip, Predict Incorrect: 11.545%
+Prediction Data correctness percentage: 75.5952%
+Predict on chip?: false
+Counter Access Time: 7846092
+Counter Actually Miss: 57.929%
+Percentage of Predict on Chip, Predict Correct: 20.7637%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8315%
+Percentage of Predict off Chip, Predict Incorrect: 11.545%
+Prediction Data correctness percentage: 75.5952%
+Predict on chip?: false
+Counter Access Time: 7846093
+Counter Actually Miss: 57.929%
+Percentage of Predict on Chip, Predict Correct: 20.7637%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8315%
+Percentage of Predict off Chip, Predict Incorrect: 11.545%
+Prediction Data correctness percentage: 75.5952%
+Predict on chip?: false
+Counter Access Time: 7846094
+Counter Actually Miss: 57.929%
+Percentage of Predict on Chip, Predict Correct: 20.7637%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8315%
+Percentage of Predict off Chip, Predict Incorrect: 11.545%
+Prediction Data correctness percentage: 75.5952%
+Predict on chip?: false
+Counter Access Time: 7846095
+Counter Actually Miss: 57.929%
+Percentage of Predict on Chip, Predict Correct: 20.7637%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8315%
+Percentage of Predict off Chip, Predict Incorrect: 11.545%
+Prediction Data correctness percentage: 75.5952%
+Predict on chip?: false
+Counter Access Time: 7846096
+Counter Actually Miss: 57.9291%
+Percentage of Predict on Chip, Predict Correct: 20.7637%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8315%
+Percentage of Predict off Chip, Predict Incorrect: 11.545%
+Prediction Data correctness percentage: 75.5952%
+Predict on chip?: false
+Counter Access Time: 7846097
+Counter Actually Miss: 57.9291%
+Percentage of Predict on Chip, Predict Correct: 20.7637%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8315%
+Percentage of Predict off Chip, Predict Incorrect: 11.545%
+Prediction Data correctness percentage: 75.5952%
+Predict on chip?: false
+Counter Access Time: 7846098
+Counter Actually Miss: 57.9291%
+Percentage of Predict on Chip, Predict Correct: 20.7637%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8315%
+Percentage of Predict off Chip, Predict Incorrect: 11.545%
+Prediction Data correctness percentage: 75.5952%
+Predict on chip?: false
+Counter Access Time: 7846099
+Counter Actually Miss: 57.9291%
+Percentage of Predict on Chip, Predict Correct: 20.7637%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8315%
+Percentage of Predict off Chip, Predict Incorrect: 11.545%
+Prediction Data correctness percentage: 75.5952%
+Predict on chip?: false
+Counter Access Time: 7846100
+Counter Actually Miss: 57.9291%
+Percentage of Predict on Chip, Predict Correct: 20.7637%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8315%
+Percentage of Predict off Chip, Predict Incorrect: 11.545%
+Prediction Data correctness percentage: 75.5952%
+Predict on chip?: false
+Counter Access Time: 7846101
+Counter Actually Miss: 57.9291%
+Percentage of Predict on Chip, Predict Correct: 20.7637%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8315%
+Percentage of Predict off Chip, Predict Incorrect: 11.545%
+Prediction Data correctness percentage: 75.5952%
+Predict on chip?: false
+Counter Access Time: 7846102
+Counter Actually Miss: 57.9291%
+Percentage of Predict on Chip, Predict Correct: 20.7637%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8316%
+Percentage of Predict off Chip, Predict Incorrect: 11.545%
+Prediction Data correctness percentage: 75.5952%
+Predict on chip?: false
+Counter Access Time: 7846103
+Counter Actually Miss: 57.9291%
+Percentage of Predict on Chip, Predict Correct: 20.7637%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8316%
+Percentage of Predict off Chip, Predict Incorrect: 11.545%
+Prediction Data correctness percentage: 75.5952%
+Predict on chip?: false
+Counter Access Time: 7846104
+Counter Actually Miss: 57.9291%
+Percentage of Predict on Chip, Predict Correct: 20.7637%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8316%
+Percentage of Predict off Chip, Predict Incorrect: 11.545%
+Prediction Data correctness percentage: 75.5952%
+Predict on chip?: false
+Counter Access Time: 7846105
+Counter Actually Miss: 57.9291%
+Percentage of Predict on Chip, Predict Correct: 20.7637%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8316%
+Percentage of Predict off Chip, Predict Incorrect: 11.545%
+Prediction Data correctness percentage: 75.5952%
+Predict on chip?: false
+Counter Access Time: 7846106
+Counter Actually Miss: 57.9291%
+Percentage of Predict on Chip, Predict Correct: 20.7637%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8316%
+Percentage of Predict off Chip, Predict Incorrect: 11.5449%
+Prediction Data correctness percentage: 75.5952%
+Predict on chip?: false
+Counter Access Time: 7846107
+Counter Actually Miss: 57.9291%
+Percentage of Predict on Chip, Predict Correct: 20.7637%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8316%
+Percentage of Predict off Chip, Predict Incorrect: 11.5449%
+Prediction Data correctness percentage: 75.5952%
+Predict on chip?: false
+Counter Access Time: 7846108
+Counter Actually Miss: 57.9291%
+Percentage of Predict on Chip, Predict Correct: 20.7637%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8316%
+Percentage of Predict off Chip, Predict Incorrect: 11.5449%
+Prediction Data correctness percentage: 75.5952%
+Predict on chip?: false
+Counter Access Time: 7846109
+Counter Actually Miss: 57.9291%
+Percentage of Predict on Chip, Predict Correct: 20.7637%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8316%
+Percentage of Predict off Chip, Predict Incorrect: 11.5449%
+Prediction Data correctness percentage: 75.5952%
+Predict on chip?: false
+Counter Access Time: 7846110
+Counter Actually Miss: 57.9291%
+Percentage of Predict on Chip, Predict Correct: 20.7637%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8316%
+Percentage of Predict off Chip, Predict Incorrect: 11.5449%
+Prediction Data correctness percentage: 75.5952%
+Predict on chip?: false
+Counter Access Time: 7846111
+Counter Actually Miss: 57.9291%
+Percentage of Predict on Chip, Predict Correct: 20.7637%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8316%
+Percentage of Predict off Chip, Predict Incorrect: 11.5449%
+Prediction Data correctness percentage: 75.5952%
+Predict on chip?: false
+Counter Access Time: 7846112
+Counter Actually Miss: 57.9291%
+Percentage of Predict on Chip, Predict Correct: 20.7637%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8316%
+Percentage of Predict off Chip, Predict Incorrect: 11.5449%
+Prediction Data correctness percentage: 75.5953%
+Predict on chip?: false
+Counter Access Time: 7846113
+Counter Actually Miss: 57.9291%
+Percentage of Predict on Chip, Predict Correct: 20.7637%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8316%
+Percentage of Predict off Chip, Predict Incorrect: 11.5449%
+Prediction Data correctness percentage: 75.5953%
+Predict on chip?: false
+Counter Access Time: 7846114
+Counter Actually Miss: 57.9291%
+Percentage of Predict on Chip, Predict Correct: 20.7637%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8316%
+Percentage of Predict off Chip, Predict Incorrect: 11.5449%
+Prediction Data correctness percentage: 75.5953%
+Predict on chip?: false
+Counter Access Time: 7846115
+Counter Actually Miss: 57.9291%
+Percentage of Predict on Chip, Predict Correct: 20.7636%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8316%
+Percentage of Predict off Chip, Predict Incorrect: 11.5449%
+Prediction Data correctness percentage: 75.5953%
+Predict on chip?: false
+Counter Access Time: 7846116
+Counter Actually Miss: 57.9291%
+Percentage of Predict on Chip, Predict Correct: 20.7636%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8316%
+Percentage of Predict off Chip, Predict Incorrect: 11.5449%
+Prediction Data correctness percentage: 75.5953%
+Predict on chip?: false
+Counter Access Time: 7846117
+Counter Actually Miss: 57.9291%
+Percentage of Predict on Chip, Predict Correct: 20.7636%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8316%
+Percentage of Predict off Chip, Predict Incorrect: 11.5449%
+Prediction Data correctness percentage: 75.5953%
+Predict on chip?: false
+Counter Access Time: 7846118
+Counter Actually Miss: 57.9291%
+Percentage of Predict on Chip, Predict Correct: 20.7636%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8316%
+Percentage of Predict off Chip, Predict Incorrect: 11.5449%
+Prediction Data correctness percentage: 75.5953%
+Predict on chip?: true
+Counter Access Time: 7846119
+Counter Actually Miss: 57.9291%
+Percentage of Predict on Chip, Predict Correct: 20.7636%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8316%
+Percentage of Predict off Chip, Predict Incorrect: 11.5449%
+Prediction Data correctness percentage: 75.5953%
+Predict on chip?: false
+Counter Access Time: 7846120
+Counter Actually Miss: 57.9291%
+Percentage of Predict on Chip, Predict Correct: 20.7636%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8316%
+Percentage of Predict off Chip, Predict Incorrect: 11.5449%
+Prediction Data correctness percentage: 75.5953%
+Predict on chip?: false
+Counter Access Time: 7846121
+Counter Actually Miss: 57.9291%
+Percentage of Predict on Chip, Predict Correct: 20.7636%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8316%
+Percentage of Predict off Chip, Predict Incorrect: 11.5449%
+Prediction Data correctness percentage: 75.5953%
+Predict on chip?: false
+Counter Access Time: 7846122
+Counter Actually Miss: 57.9291%
+Percentage of Predict on Chip, Predict Correct: 20.7636%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8316%
+Percentage of Predict off Chip, Predict Incorrect: 11.5449%
+Prediction Data correctness percentage: 75.5953%
+Predict on chip?: false
+Counter Access Time: 7846123
+Counter Actually Miss: 57.9291%
+Percentage of Predict on Chip, Predict Correct: 20.7636%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8316%
+Percentage of Predict off Chip, Predict Incorrect: 11.5449%
+Prediction Data correctness percentage: 75.5953%
+Predict on chip?: false
+Counter Access Time: 7846124
+Counter Actually Miss: 57.9291%
+Percentage of Predict on Chip, Predict Correct: 20.7636%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8316%
+Percentage of Predict off Chip, Predict Incorrect: 11.5449%
+Prediction Data correctness percentage: 75.5953%
+Predict on chip?: false
+Counter Access Time: 7846125
+Counter Actually Miss: 57.9291%
+Percentage of Predict on Chip, Predict Correct: 20.7636%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8316%
+Percentage of Predict off Chip, Predict Incorrect: 11.5449%
+Prediction Data correctness percentage: 75.5953%
+Predict on chip?: true
+Counter Access Time: 7846126
+Counter Actually Miss: 57.9291%
+Percentage of Predict on Chip, Predict Correct: 20.7636%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8316%
+Percentage of Predict off Chip, Predict Incorrect: 11.5449%
+Prediction Data correctness percentage: 75.5953%
+Predict on chip?: false
+Counter Access Time: 7846127
+Counter Actually Miss: 57.9291%
+Percentage of Predict on Chip, Predict Correct: 20.7636%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8316%
+Percentage of Predict off Chip, Predict Incorrect: 11.5449%
+Prediction Data correctness percentage: 75.5953%
+Predict on chip?: false
+Counter Access Time: 7846128
+Counter Actually Miss: 57.9291%
+Percentage of Predict on Chip, Predict Correct: 20.7636%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8316%
+Percentage of Predict off Chip, Predict Incorrect: 11.5449%
+Prediction Data correctness percentage: 75.5953%
+Predict on chip?: true
+Counter Access Time: 7846129
+Counter Actually Miss: 57.9291%
+Percentage of Predict on Chip, Predict Correct: 20.7636%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8316%
+Percentage of Predict off Chip, Predict Incorrect: 11.5449%
+Prediction Data correctness percentage: 75.5953%
+Predict on chip?: false
+Counter Access Time: 7846130
+Counter Actually Miss: 57.9291%
+Percentage of Predict on Chip, Predict Correct: 20.7636%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8316%
+Percentage of Predict off Chip, Predict Incorrect: 11.5449%
+Prediction Data correctness percentage: 75.5953%
+Predict on chip?: false
+Counter Access Time: 7846131
+Counter Actually Miss: 57.9291%
+Percentage of Predict on Chip, Predict Correct: 20.7636%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8317%
+Percentage of Predict off Chip, Predict Incorrect: 11.5449%
+Prediction Data correctness percentage: 75.5953%
+Predict on chip?: false
+Counter Access Time: 7846132
+Counter Actually Miss: 57.9291%
+Percentage of Predict on Chip, Predict Correct: 20.7636%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8317%
+Percentage of Predict off Chip, Predict Incorrect: 11.5449%
+Prediction Data correctness percentage: 75.5953%
+Predict on chip?: false
+Counter Access Time: 7846133
+Counter Actually Miss: 57.9291%
+Percentage of Predict on Chip, Predict Correct: 20.7636%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8317%
+Percentage of Predict off Chip, Predict Incorrect: 11.5449%
+Prediction Data correctness percentage: 75.5953%
+Predict on chip?: true
+Counter Access Time: 7846134
+Counter Actually Miss: 57.9291%
+Percentage of Predict on Chip, Predict Correct: 20.7636%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8317%
+Percentage of Predict off Chip, Predict Incorrect: 11.5449%
+Prediction Data correctness percentage: 75.5953%
+Predict on chip?: false
+Counter Access Time: 7846135
+Counter Actually Miss: 57.9291%
+Percentage of Predict on Chip, Predict Correct: 20.7636%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8317%
+Percentage of Predict off Chip, Predict Incorrect: 11.5449%
+Prediction Data correctness percentage: 75.5953%
+Predict on chip?: false
+Counter Access Time: 7846136
+Counter Actually Miss: 57.9291%
+Percentage of Predict on Chip, Predict Correct: 20.7636%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8317%
+Percentage of Predict off Chip, Predict Incorrect: 11.5449%
+Prediction Data correctness percentage: 75.5953%
+Predict on chip?: false
+Counter Access Time: 7846137
+Counter Actually Miss: 57.9291%
+Percentage of Predict on Chip, Predict Correct: 20.7636%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8317%
+Percentage of Predict off Chip, Predict Incorrect: 11.5449%
+Prediction Data correctness percentage: 75.5953%
+Predict on chip?: false
+Counter Access Time: 7846138
+Counter Actually Miss: 57.9291%
+Percentage of Predict on Chip, Predict Correct: 20.7636%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8317%
+Percentage of Predict off Chip, Predict Incorrect: 11.5449%
+Prediction Data correctness percentage: 75.5953%
+Predict on chip?: false
+Counter Access Time: 7846139
+Counter Actually Miss: 57.9291%
+Percentage of Predict on Chip, Predict Correct: 20.7636%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8317%
+Percentage of Predict off Chip, Predict Incorrect: 11.5449%
+Prediction Data correctness percentage: 75.5953%
+Predict on chip?: false
+Counter Access Time: 7846140
+Counter Actually Miss: 57.9291%
+Percentage of Predict on Chip, Predict Correct: 20.7636%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8317%
+Percentage of Predict off Chip, Predict Incorrect: 11.5449%
+Prediction Data correctness percentage: 75.5953%
+Predict on chip?: false
+Counter Access Time: 7846141
+Counter Actually Miss: 57.9291%
+Percentage of Predict on Chip, Predict Correct: 20.7636%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8317%
+Percentage of Predict off Chip, Predict Incorrect: 11.5449%
+Prediction Data correctness percentage: 75.5953%
+Predict on chip?: false
+Counter Access Time: 7846142
+Counter Actually Miss: 57.9291%
+Percentage of Predict on Chip, Predict Correct: 20.7636%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8317%
+Percentage of Predict off Chip, Predict Incorrect: 11.5449%
+Prediction Data correctness percentage: 75.5953%
+Predict on chip?: false
+Counter Access Time: 7846143
+Counter Actually Miss: 57.9291%
+Percentage of Predict on Chip, Predict Correct: 20.7636%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8317%
+Percentage of Predict off Chip, Predict Incorrect: 11.5449%
+Prediction Data correctness percentage: 75.5953%
+Predict on chip?: false
+Counter Access Time: 7846144
+Counter Actually Miss: 57.9291%
+Percentage of Predict on Chip, Predict Correct: 20.7636%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8317%
+Percentage of Predict off Chip, Predict Incorrect: 11.5449%
+Prediction Data correctness percentage: 75.5953%
+Predict on chip?: false
+Counter Access Time: 7846145
+Counter Actually Miss: 57.9291%
+Percentage of Predict on Chip, Predict Correct: 20.7636%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8317%
+Percentage of Predict off Chip, Predict Incorrect: 11.5449%
+Prediction Data correctness percentage: 75.5953%
+Predict on chip?: false
+Counter Access Time: 7846146
+Counter Actually Miss: 57.9291%
+Percentage of Predict on Chip, Predict Correct: 20.7636%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8317%
+Percentage of Predict off Chip, Predict Incorrect: 11.5449%
+Prediction Data correctness percentage: 75.5953%
+Predict on chip?: false
+Counter Access Time: 7846147
+Counter Actually Miss: 57.9291%
+Percentage of Predict on Chip, Predict Correct: 20.7636%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8317%
+Percentage of Predict off Chip, Predict Incorrect: 11.5449%
+Prediction Data correctness percentage: 75.5953%
+Predict on chip?: false
+Counter Access Time: 7846148
+Counter Actually Miss: 57.9291%
+Percentage of Predict on Chip, Predict Correct: 20.7636%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8317%
+Percentage of Predict off Chip, Predict Incorrect: 11.5449%
+Prediction Data correctness percentage: 75.5953%
+Predict on chip?: false
+Counter Access Time: 7846149
+Counter Actually Miss: 57.9291%
+Percentage of Predict on Chip, Predict Correct: 20.7636%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8317%
+Percentage of Predict off Chip, Predict Incorrect: 11.5449%
+Prediction Data correctness percentage: 75.5953%
+Predict on chip?: false
+Counter Access Time: 7846150
+Counter Actually Miss: 57.9291%
+Percentage of Predict on Chip, Predict Correct: 20.7636%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8317%
+Percentage of Predict off Chip, Predict Incorrect: 11.5449%
+Prediction Data correctness percentage: 75.5953%
+Predict on chip?: false
+Counter Access Time: 7846151
+Counter Actually Miss: 57.9291%
+Percentage of Predict on Chip, Predict Correct: 20.7636%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8317%
+Percentage of Predict off Chip, Predict Incorrect: 11.5449%
+Prediction Data correctness percentage: 75.5953%
+Predict on chip?: false
+Counter Access Time: 7846152
+Counter Actually Miss: 57.9291%
+Percentage of Predict on Chip, Predict Correct: 20.7636%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8317%
+Percentage of Predict off Chip, Predict Incorrect: 11.5449%
+Prediction Data correctness percentage: 75.5953%
+Predict on chip?: false
+Counter Access Time: 7846153
+Counter Actually Miss: 57.9291%
+Percentage of Predict on Chip, Predict Correct: 20.7636%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8317%
+Percentage of Predict off Chip, Predict Incorrect: 11.5449%
+Prediction Data correctness percentage: 75.5953%
+Predict on chip?: false
+Counter Access Time: 7846154
+Counter Actually Miss: 57.9291%
+Percentage of Predict on Chip, Predict Correct: 20.7636%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8317%
+Percentage of Predict off Chip, Predict Incorrect: 11.5449%
+Prediction Data correctness percentage: 75.5953%
+Predict on chip?: false
+Counter Access Time: 7846155
+Counter Actually Miss: 57.9291%
+Percentage of Predict on Chip, Predict Correct: 20.7636%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8318%
+Percentage of Predict off Chip, Predict Incorrect: 11.5449%
+Prediction Data correctness percentage: 75.5953%
+Predict on chip?: false
+Counter Access Time: 7846156
+Counter Actually Miss: 57.9291%
+Percentage of Predict on Chip, Predict Correct: 20.7636%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8318%
+Percentage of Predict off Chip, Predict Incorrect: 11.5449%
+Prediction Data correctness percentage: 75.5953%
+Predict on chip?: false
+Counter Access Time: 7846157
+Counter Actually Miss: 57.9291%
+Percentage of Predict on Chip, Predict Correct: 20.7636%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8318%
+Percentage of Predict off Chip, Predict Incorrect: 11.5449%
+Prediction Data correctness percentage: 75.5953%
+Predict on chip?: false
+Counter Access Time: 7846158
+Counter Actually Miss: 57.9291%
+Percentage of Predict on Chip, Predict Correct: 20.7636%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8318%
+Percentage of Predict off Chip, Predict Incorrect: 11.5449%
+Prediction Data correctness percentage: 75.5953%
+Predict on chip?: false
+Counter Access Time: 7846159
+Counter Actually Miss: 57.9291%
+Percentage of Predict on Chip, Predict Correct: 20.7636%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8318%
+Percentage of Predict off Chip, Predict Incorrect: 11.5449%
+Prediction Data correctness percentage: 75.5953%
+Predict on chip?: false
+Counter Access Time: 7846160
+Counter Actually Miss: 57.9291%
+Percentage of Predict on Chip, Predict Correct: 20.7636%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8318%
+Percentage of Predict off Chip, Predict Incorrect: 11.5449%
+Prediction Data correctness percentage: 75.5953%
+Predict on chip?: false
+Counter Access Time: 7846161
+Counter Actually Miss: 57.9291%
+Percentage of Predict on Chip, Predict Correct: 20.7636%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8318%
+Percentage of Predict off Chip, Predict Incorrect: 11.5449%
+Prediction Data correctness percentage: 75.5953%
+Predict on chip?: false
+Counter Access Time: 7846162
+Counter Actually Miss: 57.9291%
+Percentage of Predict on Chip, Predict Correct: 20.7636%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8318%
+Percentage of Predict off Chip, Predict Incorrect: 11.5449%
+Prediction Data correctness percentage: 75.5953%
+Predict on chip?: false
+Counter Access Time: 7846163
+Counter Actually Miss: 57.9291%
+Percentage of Predict on Chip, Predict Correct: 20.7635%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8318%
+Percentage of Predict off Chip, Predict Incorrect: 11.5449%
+Prediction Data correctness percentage: 75.5953%
+Predict on chip?: true
+Counter Access Time: 7846164
+Counter Actually Miss: 57.9291%
+Percentage of Predict on Chip, Predict Correct: 20.7635%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8318%
+Percentage of Predict off Chip, Predict Incorrect: 11.5449%
+Prediction Data correctness percentage: 75.5953%
+Predict on chip?: false
+Counter Access Time: 7846165
+Counter Actually Miss: 57.9291%
+Percentage of Predict on Chip, Predict Correct: 20.7635%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8318%
+Percentage of Predict off Chip, Predict Incorrect: 11.5449%
+Prediction Data correctness percentage: 75.5953%
+Predict on chip?: false
+Counter Access Time: 7846166
+Counter Actually Miss: 57.9291%
+Percentage of Predict on Chip, Predict Correct: 20.7635%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8318%
+Percentage of Predict off Chip, Predict Incorrect: 11.5449%
+Prediction Data correctness percentage: 75.5953%
+Predict on chip?: false
+Counter Access Time: 7846167
+Counter Actually Miss: 57.9291%
+Percentage of Predict on Chip, Predict Correct: 20.7635%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8318%
+Percentage of Predict off Chip, Predict Incorrect: 11.5449%
+Prediction Data correctness percentage: 75.5953%
+Predict on chip?: false
+Counter Access Time: 7846168
+Counter Actually Miss: 57.9291%
+Percentage of Predict on Chip, Predict Correct: 20.7635%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8318%
+Percentage of Predict off Chip, Predict Incorrect: 11.5449%
+Prediction Data correctness percentage: 75.5953%
+Predict on chip?: false
+Counter Access Time: 7846169
+Counter Actually Miss: 57.9291%
+Percentage of Predict on Chip, Predict Correct: 20.7635%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8318%
+Percentage of Predict off Chip, Predict Incorrect: 11.5449%
+Prediction Data correctness percentage: 75.5953%
+Predict on chip?: false
+Counter Access Time: 7846170
+Counter Actually Miss: 57.9292%
+Percentage of Predict on Chip, Predict Correct: 20.7635%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8318%
+Percentage of Predict off Chip, Predict Incorrect: 11.5449%
+Prediction Data correctness percentage: 75.5953%
+Predict on chip?: false
+Counter Access Time: 7846171
+Counter Actually Miss: 57.9292%
+Percentage of Predict on Chip, Predict Correct: 20.7635%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8318%
+Percentage of Predict off Chip, Predict Incorrect: 11.5449%
+Prediction Data correctness percentage: 75.5953%
+Predict on chip?: false
+Counter Access Time: 7846172
+Counter Actually Miss: 57.9292%
+Percentage of Predict on Chip, Predict Correct: 20.7635%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8318%
+Percentage of Predict off Chip, Predict Incorrect: 11.5449%
+Prediction Data correctness percentage: 75.5953%
+Predict on chip?: false
+Counter Access Time: 7846173
+Counter Actually Miss: 57.9292%
+Percentage of Predict on Chip, Predict Correct: 20.7635%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8318%
+Percentage of Predict off Chip, Predict Incorrect: 11.5449%
+Prediction Data correctness percentage: 75.5954%
+Predict on chip?: false
+Counter Access Time: 7846174
+Counter Actually Miss: 57.9292%
+Percentage of Predict on Chip, Predict Correct: 20.7635%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8318%
+Percentage of Predict off Chip, Predict Incorrect: 11.5449%
+Prediction Data correctness percentage: 75.5954%
+Predict on chip?: false
+Counter Access Time: 7846175
+Counter Actually Miss: 57.9292%
+Percentage of Predict on Chip, Predict Correct: 20.7635%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8318%
+Percentage of Predict off Chip, Predict Incorrect: 11.5449%
+Prediction Data correctness percentage: 75.5954%
+Predict on chip?: false
+Counter Access Time: 7846176
+Counter Actually Miss: 57.9292%
+Percentage of Predict on Chip, Predict Correct: 20.7635%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8318%
+Percentage of Predict off Chip, Predict Incorrect: 11.5449%
+Prediction Data correctness percentage: 75.5954%
+Predict on chip?: false
+Counter Access Time: 7846177
+Counter Actually Miss: 57.9292%
+Percentage of Predict on Chip, Predict Correct: 20.7635%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8318%
+Percentage of Predict off Chip, Predict Incorrect: 11.5449%
+Prediction Data correctness percentage: 75.5954%
+Predict on chip?: false
+Counter Access Time: 7846178
+Counter Actually Miss: 57.9291%
+Percentage of Predict on Chip, Predict Correct: 20.7635%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8318%
+Percentage of Predict off Chip, Predict Incorrect: 11.5449%
+Prediction Data correctness percentage: 75.5954%
+Predict on chip?: false
+Counter Access Time: 7846179
+Counter Actually Miss: 57.9291%
+Percentage of Predict on Chip, Predict Correct: 20.7635%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8319%
+Percentage of Predict off Chip, Predict Incorrect: 11.5449%
+Prediction Data correctness percentage: 75.5954%
+Predict on chip?: false
+Counter Access Time: 7846180
+Counter Actually Miss: 57.9291%
+Percentage of Predict on Chip, Predict Correct: 20.7635%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8319%
+Percentage of Predict off Chip, Predict Incorrect: 11.5449%
+Prediction Data correctness percentage: 75.5954%
+Predict on chip?: false
+Counter Access Time: 7846181
+Counter Actually Miss: 57.9292%
+Percentage of Predict on Chip, Predict Correct: 20.7635%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8319%
+Percentage of Predict off Chip, Predict Incorrect: 11.5449%
+Prediction Data correctness percentage: 75.5954%
+Predict on chip?: false
+Counter Access Time: 7846182
+Counter Actually Miss: 57.9292%
+Percentage of Predict on Chip, Predict Correct: 20.7635%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8319%
+Percentage of Predict off Chip, Predict Incorrect: 11.5449%
+Prediction Data correctness percentage: 75.5954%
+Predict on chip?: false
+Counter Access Time: 7846183
+Counter Actually Miss: 57.9292%
+Percentage of Predict on Chip, Predict Correct: 20.7635%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8319%
+Percentage of Predict off Chip, Predict Incorrect: 11.5449%
+Prediction Data correctness percentage: 75.5954%
+Predict on chip?: false
+Counter Access Time: 7846184
+Counter Actually Miss: 57.9292%
+Percentage of Predict on Chip, Predict Correct: 20.7635%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8319%
+Percentage of Predict off Chip, Predict Incorrect: 11.5449%
+Prediction Data correctness percentage: 75.5954%
+Predict on chip?: false
+Counter Access Time: 7846185
+Counter Actually Miss: 57.9292%
+Percentage of Predict on Chip, Predict Correct: 20.7635%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8319%
+Percentage of Predict off Chip, Predict Incorrect: 11.5449%
+Prediction Data correctness percentage: 75.5954%
+Predict on chip?: false
+Counter Access Time: 7846186
+Counter Actually Miss: 57.9292%
+Percentage of Predict on Chip, Predict Correct: 20.7635%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8319%
+Percentage of Predict off Chip, Predict Incorrect: 11.5449%
+Prediction Data correctness percentage: 75.5954%
+Predict on chip?: true
+Counter Access Time: 7846187
+Counter Actually Miss: 57.9292%
+Percentage of Predict on Chip, Predict Correct: 20.7635%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8319%
+Percentage of Predict off Chip, Predict Incorrect: 11.5449%
+Prediction Data correctness percentage: 75.5954%
+Predict on chip?: false
+Counter Access Time: 7846188
+Counter Actually Miss: 57.9292%
+Percentage of Predict on Chip, Predict Correct: 20.7635%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8319%
+Percentage of Predict off Chip, Predict Incorrect: 11.5449%
+Prediction Data correctness percentage: 75.5954%
+Predict on chip?: false
+Counter Access Time: 7846189
+Counter Actually Miss: 57.9292%
+Percentage of Predict on Chip, Predict Correct: 20.7635%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8319%
+Percentage of Predict off Chip, Predict Incorrect: 11.5449%
+Prediction Data correctness percentage: 75.5954%
+Predict on chip?: false
+Counter Access Time: 7846190
+Counter Actually Miss: 57.9292%
+Percentage of Predict on Chip, Predict Correct: 20.7635%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8319%
+Percentage of Predict off Chip, Predict Incorrect: 11.5449%
+Prediction Data correctness percentage: 75.5954%
+Predict on chip?: false
+Counter Access Time: 7846191
+Counter Actually Miss: 57.9292%
+Percentage of Predict on Chip, Predict Correct: 20.7635%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8319%
+Percentage of Predict off Chip, Predict Incorrect: 11.5449%
+Prediction Data correctness percentage: 75.5954%
+Predict on chip?: false
+Counter Access Time: 7846192
+Counter Actually Miss: 57.9292%
+Percentage of Predict on Chip, Predict Correct: 20.7635%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8319%
+Percentage of Predict off Chip, Predict Incorrect: 11.5448%
+Prediction Data correctness percentage: 75.5954%
+Predict on chip?: true
+Counter Access Time: 7846193
+Counter Actually Miss: 57.9292%
+Percentage of Predict on Chip, Predict Correct: 20.7635%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8319%
+Percentage of Predict off Chip, Predict Incorrect: 11.5448%
+Prediction Data correctness percentage: 75.5954%
+Predict on chip?: false
+Counter Access Time: 7846194
+Counter Actually Miss: 57.9292%
+Percentage of Predict on Chip, Predict Correct: 20.7635%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8319%
+Percentage of Predict off Chip, Predict Incorrect: 11.5448%
+Prediction Data correctness percentage: 75.5954%
+Predict on chip?: true
+Counter Access Time: 7846195
+Counter Actually Miss: 57.9292%
+Percentage of Predict on Chip, Predict Correct: 20.7635%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8319%
+Percentage of Predict off Chip, Predict Incorrect: 11.5448%
+Prediction Data correctness percentage: 75.5954%
+Predict on chip?: false
+Counter Access Time: 7846196
+Counter Actually Miss: 57.9292%
+Percentage of Predict on Chip, Predict Correct: 20.7635%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8319%
+Percentage of Predict off Chip, Predict Incorrect: 11.5448%
+Prediction Data correctness percentage: 75.5954%
+Predict on chip?: true
+Counter Access Time: 7846197
+Counter Actually Miss: 57.9292%
+Percentage of Predict on Chip, Predict Correct: 20.7635%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8319%
+Percentage of Predict off Chip, Predict Incorrect: 11.5448%
+Prediction Data correctness percentage: 75.5954%
+Predict on chip?: false
+Counter Access Time: 7846198
+Counter Actually Miss: 57.9292%
+Percentage of Predict on Chip, Predict Correct: 20.7635%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8319%
+Percentage of Predict off Chip, Predict Incorrect: 11.5448%
+Prediction Data correctness percentage: 75.5954%
+Predict on chip?: false
+Counter Access Time: 7846199
+Counter Actually Miss: 57.9292%
+Percentage of Predict on Chip, Predict Correct: 20.7635%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8319%
+Percentage of Predict off Chip, Predict Incorrect: 11.5448%
+Prediction Data correctness percentage: 75.5954%
+Predict on chip?: true
+Counter Access Time: 7846200
+Counter Actually Miss: 57.9292%
+Percentage of Predict on Chip, Predict Correct: 20.7635%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8319%
+Percentage of Predict off Chip, Predict Incorrect: 11.5448%
+Prediction Data correctness percentage: 75.5954%
+Predict on chip?: false
+Counter Access Time: 7846201
+Counter Actually Miss: 57.9292%
+Percentage of Predict on Chip, Predict Correct: 20.7635%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8319%
+Percentage of Predict off Chip, Predict Incorrect: 11.5448%
+Prediction Data correctness percentage: 75.5954%
+Predict on chip?: false
+Counter Access Time: 7846202
+Counter Actually Miss: 57.9292%
+Percentage of Predict on Chip, Predict Correct: 20.7635%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8319%
+Percentage of Predict off Chip, Predict Incorrect: 11.5448%
+Prediction Data correctness percentage: 75.5954%
+Predict on chip?: false
+Counter Access Time: 7846203
+Counter Actually Miss: 57.9292%
+Percentage of Predict on Chip, Predict Correct: 20.7635%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8319%
+Percentage of Predict off Chip, Predict Incorrect: 11.5448%
+Prediction Data correctness percentage: 75.5954%
+Predict on chip?: false
+Counter Access Time: 7846204
+Counter Actually Miss: 57.9292%
+Percentage of Predict on Chip, Predict Correct: 20.7635%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8319%
+Percentage of Predict off Chip, Predict Incorrect: 11.5448%
+Prediction Data correctness percentage: 75.5954%
+Predict on chip?: false
+Counter Access Time: 7846205
+Counter Actually Miss: 57.9292%
+Percentage of Predict on Chip, Predict Correct: 20.7635%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8319%
+Percentage of Predict off Chip, Predict Incorrect: 11.5448%
+Prediction Data correctness percentage: 75.5954%
+Predict on chip?: false
+Counter Access Time: 7846206
+Counter Actually Miss: 57.9292%
+Percentage of Predict on Chip, Predict Correct: 20.7635%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8319%
+Percentage of Predict off Chip, Predict Incorrect: 11.5448%
+Prediction Data correctness percentage: 75.5954%
+Predict on chip?: true
+Counter Access Time: 7846207
+Counter Actually Miss: 57.9292%
+Percentage of Predict on Chip, Predict Correct: 20.7635%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8319%
+Percentage of Predict off Chip, Predict Incorrect: 11.5448%
+Prediction Data correctness percentage: 75.5954%
+Predict on chip?: false
+Counter Access Time: 7846208
+Counter Actually Miss: 57.9292%
+Percentage of Predict on Chip, Predict Correct: 20.7635%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8319%
+Percentage of Predict off Chip, Predict Incorrect: 11.5448%
+Prediction Data correctness percentage: 75.5954%
+Predict on chip?: false
+Counter Access Time: 7846209
+Counter Actually Miss: 57.9292%
+Percentage of Predict on Chip, Predict Correct: 20.7635%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8319%
+Percentage of Predict off Chip, Predict Incorrect: 11.5448%
+Prediction Data correctness percentage: 75.5954%
+Predict on chip?: false
+Counter Access Time: 7846210
+Counter Actually Miss: 57.9292%
+Percentage of Predict on Chip, Predict Correct: 20.7634%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8319%
+Percentage of Predict off Chip, Predict Incorrect: 11.5448%
+Prediction Data correctness percentage: 75.5954%
+Predict on chip?: false
+Counter Access Time: 7846211
+Counter Actually Miss: 57.9292%
+Percentage of Predict on Chip, Predict Correct: 20.7634%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8319%
+Percentage of Predict off Chip, Predict Incorrect: 11.5448%
+Prediction Data correctness percentage: 75.5954%
+Predict on chip?: false
+Counter Access Time: 7846212
+Counter Actually Miss: 57.9292%
+Percentage of Predict on Chip, Predict Correct: 20.7634%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8319%
+Percentage of Predict off Chip, Predict Incorrect: 11.5448%
+Prediction Data correctness percentage: 75.5954%
+Predict on chip?: true
+Counter Access Time: 7846213
+Counter Actually Miss: 57.9292%
+Percentage of Predict on Chip, Predict Correct: 20.7634%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8319%
+Percentage of Predict off Chip, Predict Incorrect: 11.5448%
+Prediction Data correctness percentage: 75.5954%
+Predict on chip?: false
+Counter Access Time: 7846214
+Counter Actually Miss: 57.9292%
+Percentage of Predict on Chip, Predict Correct: 20.7634%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8319%
+Percentage of Predict off Chip, Predict Incorrect: 11.5448%
+Prediction Data correctness percentage: 75.5954%
+Predict on chip?: false
+Counter Access Time: 7846215
+Counter Actually Miss: 57.9292%
+Percentage of Predict on Chip, Predict Correct: 20.7634%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8319%
+Percentage of Predict off Chip, Predict Incorrect: 11.5448%
+Prediction Data correctness percentage: 75.5954%
+Predict on chip?: false
+Counter Access Time: 7846216
+Counter Actually Miss: 57.9292%
+Percentage of Predict on Chip, Predict Correct: 20.7634%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8319%
+Percentage of Predict off Chip, Predict Incorrect: 11.5448%
+Prediction Data correctness percentage: 75.5954%
+Predict on chip?: false
+Counter Access Time: 7846217
+Counter Actually Miss: 57.9292%
+Percentage of Predict on Chip, Predict Correct: 20.7634%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.832%
+Percentage of Predict off Chip, Predict Incorrect: 11.5448%
+Prediction Data correctness percentage: 75.5954%
+Predict on chip?: false
+Counter Access Time: 7846218
+Counter Actually Miss: 57.9292%
+Percentage of Predict on Chip, Predict Correct: 20.7634%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.832%
+Percentage of Predict off Chip, Predict Incorrect: 11.5448%
+Prediction Data correctness percentage: 75.5954%
+Predict on chip?: false
+Counter Access Time: 7846219
+Counter Actually Miss: 57.9292%
+Percentage of Predict on Chip, Predict Correct: 20.7634%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.832%
+Percentage of Predict off Chip, Predict Incorrect: 11.5448%
+Prediction Data correctness percentage: 75.5954%
+Predict on chip?: false
+Counter Access Time: 7846220
+Counter Actually Miss: 57.9292%
+Percentage of Predict on Chip, Predict Correct: 20.7634%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.832%
+Percentage of Predict off Chip, Predict Incorrect: 11.5448%
+Prediction Data correctness percentage: 75.5954%
+Predict on chip?: false
+Counter Access Time: 7846221
+Counter Actually Miss: 57.9292%
+Percentage of Predict on Chip, Predict Correct: 20.7634%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.832%
+Percentage of Predict off Chip, Predict Incorrect: 11.5448%
+Prediction Data correctness percentage: 75.5954%
+Predict on chip?: false
+Counter Access Time: 7846222
+Counter Actually Miss: 57.9292%
+Percentage of Predict on Chip, Predict Correct: 20.7634%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.832%
+Percentage of Predict off Chip, Predict Incorrect: 11.5448%
+Prediction Data correctness percentage: 75.5954%
+Predict on chip?: false
+Counter Access Time: 7846223
+Counter Actually Miss: 57.9292%
+Percentage of Predict on Chip, Predict Correct: 20.7634%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.832%
+Percentage of Predict off Chip, Predict Incorrect: 11.5448%
+Prediction Data correctness percentage: 75.5954%
+Predict on chip?: false
+Counter Access Time: 7846224
+Counter Actually Miss: 57.9292%
+Percentage of Predict on Chip, Predict Correct: 20.7634%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.832%
+Percentage of Predict off Chip, Predict Incorrect: 11.5448%
+Prediction Data correctness percentage: 75.5954%
+Predict on chip?: false
+Counter Access Time: 7846225
+Counter Actually Miss: 57.9292%
+Percentage of Predict on Chip, Predict Correct: 20.7634%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.832%
+Percentage of Predict off Chip, Predict Incorrect: 11.5448%
+Prediction Data correctness percentage: 75.5954%
+Predict on chip?: false
+Counter Access Time: 7846226
+Counter Actually Miss: 57.9292%
+Percentage of Predict on Chip, Predict Correct: 20.7634%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.832%
+Percentage of Predict off Chip, Predict Incorrect: 11.5448%
+Prediction Data correctness percentage: 75.5954%
+Predict on chip?: false
+Counter Access Time: 7846227
+Counter Actually Miss: 57.9292%
+Percentage of Predict on Chip, Predict Correct: 20.7634%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.832%
+Percentage of Predict off Chip, Predict Incorrect: 11.5448%
+Prediction Data correctness percentage: 75.5954%
+Predict on chip?: false
+Counter Access Time: 7846228
+Counter Actually Miss: 57.9292%
+Percentage of Predict on Chip, Predict Correct: 20.7634%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.832%
+Percentage of Predict off Chip, Predict Incorrect: 11.5448%
+Prediction Data correctness percentage: 75.5954%
+Predict on chip?: false
+Counter Access Time: 7846229
+Counter Actually Miss: 57.9292%
+Percentage of Predict on Chip, Predict Correct: 20.7634%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.832%
+Percentage of Predict off Chip, Predict Incorrect: 11.5448%
+Prediction Data correctness percentage: 75.5954%
+Predict on chip?: false
+Counter Access Time: 7846230
+Counter Actually Miss: 57.9292%
+Percentage of Predict on Chip, Predict Correct: 20.7634%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.832%
+Percentage of Predict off Chip, Predict Incorrect: 11.5448%
+Prediction Data correctness percentage: 75.5954%
+Predict on chip?: false
+Counter Access Time: 7846231
+Counter Actually Miss: 57.9292%
+Percentage of Predict on Chip, Predict Correct: 20.7634%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.832%
+Percentage of Predict off Chip, Predict Incorrect: 11.5448%
+Prediction Data correctness percentage: 75.5954%
+Predict on chip?: false
+Counter Access Time: 7846232
+Counter Actually Miss: 57.9292%
+Percentage of Predict on Chip, Predict Correct: 20.7634%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.832%
+Percentage of Predict off Chip, Predict Incorrect: 11.5448%
+Prediction Data correctness percentage: 75.5954%
+Predict on chip?: false
+Counter Access Time: 7846233
+Counter Actually Miss: 57.9292%
+Percentage of Predict on Chip, Predict Correct: 20.7634%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.832%
+Percentage of Predict off Chip, Predict Incorrect: 11.5448%
+Prediction Data correctness percentage: 75.5954%
+Predict on chip?: false
+Counter Access Time: 7846234
+Counter Actually Miss: 57.9292%
+Percentage of Predict on Chip, Predict Correct: 20.7634%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.832%
+Percentage of Predict off Chip, Predict Incorrect: 11.5448%
+Prediction Data correctness percentage: 75.5954%
+Predict on chip?: false
+Counter Access Time: 7846235
+Counter Actually Miss: 57.9292%
+Percentage of Predict on Chip, Predict Correct: 20.7634%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.832%
+Percentage of Predict off Chip, Predict Incorrect: 11.5448%
+Prediction Data correctness percentage: 75.5954%
+Predict on chip?: false
+Counter Access Time: 7846236
+Counter Actually Miss: 57.9293%
+Percentage of Predict on Chip, Predict Correct: 20.7634%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.832%
+Percentage of Predict off Chip, Predict Incorrect: 11.5448%
+Prediction Data correctness percentage: 75.5954%
+Predict on chip?: false
+Counter Access Time: 7846237
+Counter Actually Miss: 57.9292%
+Percentage of Predict on Chip, Predict Correct: 20.7634%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.832%
+Percentage of Predict off Chip, Predict Incorrect: 11.5448%
+Prediction Data correctness percentage: 75.5954%
+Predict on chip?: false
+Counter Access Time: 7846238
+Counter Actually Miss: 57.9293%
+Percentage of Predict on Chip, Predict Correct: 20.7634%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.832%
+Percentage of Predict off Chip, Predict Incorrect: 11.5448%
+Prediction Data correctness percentage: 75.5954%
+Predict on chip?: false
+Counter Access Time: 7846239
+Counter Actually Miss: 57.9293%
+Percentage of Predict on Chip, Predict Correct: 20.7634%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8321%
+Percentage of Predict off Chip, Predict Incorrect: 11.5448%
+Prediction Data correctness percentage: 75.5954%
+Predict on chip?: false
+Counter Access Time: 7846240
+Counter Actually Miss: 57.9293%
+Percentage of Predict on Chip, Predict Correct: 20.7634%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8321%
+Percentage of Predict off Chip, Predict Incorrect: 11.5448%
+Prediction Data correctness percentage: 75.5954%
+Predict on chip?: false
+Counter Access Time: 7846241
+Counter Actually Miss: 57.9293%
+Percentage of Predict on Chip, Predict Correct: 20.7634%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8321%
+Percentage of Predict off Chip, Predict Incorrect: 11.5448%
+Prediction Data correctness percentage: 75.5954%
+Predict on chip?: false
+Counter Access Time: 7846242
+Counter Actually Miss: 57.9293%
+Percentage of Predict on Chip, Predict Correct: 20.7634%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8321%
+Percentage of Predict off Chip, Predict Incorrect: 11.5448%
+Prediction Data correctness percentage: 75.5955%
+Predict on chip?: false
+Counter Access Time: 7846243
+Counter Actually Miss: 57.9293%
+Percentage of Predict on Chip, Predict Correct: 20.7634%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8321%
+Percentage of Predict off Chip, Predict Incorrect: 11.5448%
+Prediction Data correctness percentage: 75.5955%
+Predict on chip?: false
+Counter Access Time: 7846244
+Counter Actually Miss: 57.9293%
+Percentage of Predict on Chip, Predict Correct: 20.7634%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8321%
+Percentage of Predict off Chip, Predict Incorrect: 11.5448%
+Prediction Data correctness percentage: 75.5955%
+Predict on chip?: false
+Counter Access Time: 7846245
+Counter Actually Miss: 57.9293%
+Percentage of Predict on Chip, Predict Correct: 20.7634%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8321%
+Percentage of Predict off Chip, Predict Incorrect: 11.5448%
+Prediction Data correctness percentage: 75.5955%
+Predict on chip?: false
+Counter Access Time: 7846246
+Counter Actually Miss: 57.9293%
+Percentage of Predict on Chip, Predict Correct: 20.7634%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8321%
+Percentage of Predict off Chip, Predict Incorrect: 11.5448%
+Prediction Data correctness percentage: 75.5955%
+Predict on chip?: false
+Counter Access Time: 7846247
+Counter Actually Miss: 57.9293%
+Percentage of Predict on Chip, Predict Correct: 20.7634%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8321%
+Percentage of Predict off Chip, Predict Incorrect: 11.5448%
+Prediction Data correctness percentage: 75.5955%
+Predict on chip?: false
+Counter Access Time: 7846248
+Counter Actually Miss: 57.9293%
+Percentage of Predict on Chip, Predict Correct: 20.7634%
+Percentage of Predict on Chip, Predict Incorrect: 12.8598%
+Percentage of Predict off Chip, Predict Correct: 54.8321%
+Percentage of Predict off Chip, Predict Incorrect: 11.5448%
+Prediction Data correctness percentage: 75.5955%
+Predict on chip?: false
+Counter Access Time: 7846249
+Counter Actually Miss: 57.9293%
+Percentage of Predict on Chip, Predict Correct: 20.7634%
+Percentage of Predict on Chip, Predict Incorrect: 12.8597%
+Percentage of Predict off Chip, Predict Correct: 54.8321%
+Percentage of Predict off Chip, Predict Incorrect: 11.5448%
+Prediction Data correctness percentage: 75.5955%
+Predict on chip?: false
+Counter Access Time: 7846250
+Counter Actually Miss: 57.9293%
+Percentage of Predict on Chip, Predict Correct: 20.7634%
+Percentage of Predict on Chip, Predict Incorrect: 12.8597%
+Percentage of Predict off Chip, Predict Correct: 54.8321%
+Percentage of Predict off Chip, Predict Incorrect: 11.5448%
+Prediction Data correctness percentage: 75.5955%
+Predict on chip?: false
+Counter Access Time: 7846251
+Counter Actually Miss: 57.9293%
+Percentage of Predict on Chip, Predict Correct: 20.7634%
+Percentage of Predict on Chip, Predict Incorrect: 12.8597%
+Percentage of Predict off Chip, Predict Correct: 54.8321%
+Percentage of Predict off Chip, Predict Incorrect: 11.5448%
+Prediction Data correctness percentage: 75.5955%
+Predict on chip?: false
+Counter Access Time: 7846252
+Counter Actually Miss: 57.9293%
+Percentage of Predict on Chip, Predict Correct: 20.7634%
+Percentage of Predict on Chip, Predict Incorrect: 12.8597%
+Percentage of Predict off Chip, Predict Correct: 54.8321%
+Percentage of Predict off Chip, Predict Incorrect: 11.5448%
+Prediction Data correctness percentage: 75.5955%
+Predict on chip?: false
+Counter Access Time: 7846253
+Counter Actually Miss: 57.9293%
+Percentage of Predict on Chip, Predict Correct: 20.7634%
+Percentage of Predict on Chip, Predict Incorrect: 12.8597%
+Percentage of Predict off Chip, Predict Correct: 54.8321%
+Percentage of Predict off Chip, Predict Incorrect: 11.5448%
+Prediction Data correctness percentage: 75.5955%
+Predict on chip?: false
+Counter Access Time: 7846254
+Counter Actually Miss: 57.9293%
+Percentage of Predict on Chip, Predict Correct: 20.7634%
+Percentage of Predict on Chip, Predict Incorrect: 12.8597%
+Percentage of Predict off Chip, Predict Correct: 54.8321%
+Percentage of Predict off Chip, Predict Incorrect: 11.5448%
+Prediction Data correctness percentage: 75.5955%
+Predict on chip?: false
+Counter Access Time: 7846255
+Counter Actually Miss: 57.9293%
+Percentage of Predict on Chip, Predict Correct: 20.7634%
+Percentage of Predict on Chip, Predict Incorrect: 12.8597%
+Percentage of Predict off Chip, Predict Correct: 54.8321%
+Percentage of Predict off Chip, Predict Incorrect: 11.5448%
+Prediction Data correctness percentage: 75.5955%
+Predict on chip?: false
+Counter Access Time: 7846256
+Counter Actually Miss: 57.9293%
+Percentage of Predict on Chip, Predict Correct: 20.7634%
+Percentage of Predict on Chip, Predict Incorrect: 12.8597%
+Percentage of Predict off Chip, Predict Correct: 54.8321%
+Percentage of Predict off Chip, Predict Incorrect: 11.5448%
+Prediction Data correctness percentage: 75.5955%
+Predict on chip?: false
+Counter Access Time: 7846257
+Counter Actually Miss: 57.9293%
+Percentage of Predict on Chip, Predict Correct: 20.7634%
+Percentage of Predict on Chip, Predict Incorrect: 12.8597%
+Percentage of Predict off Chip, Predict Correct: 54.8321%
+Percentage of Predict off Chip, Predict Incorrect: 11.5448%
+Prediction Data correctness percentage: 75.5955%
+Predict on chip?: false
+Counter Access Time: 7846258
+Counter Actually Miss: 57.9293%
+Percentage of Predict on Chip, Predict Correct: 20.7633%
+Percentage of Predict on Chip, Predict Incorrect: 12.8597%
+Percentage of Predict off Chip, Predict Correct: 54.8321%
+Percentage of Predict off Chip, Predict Incorrect: 11.5448%
+Prediction Data correctness percentage: 75.5955%
+Predict on chip?: false
+Counter Access Time: 7846259
+Counter Actually Miss: 57.9293%
+Percentage of Predict on Chip, Predict Correct: 20.7633%
+Percentage of Predict on Chip, Predict Incorrect: 12.8597%
+Percentage of Predict off Chip, Predict Correct: 54.8321%
+Percentage of Predict off Chip, Predict Incorrect: 11.5448%
+Prediction Data correctness percentage: 75.5955%
+Predict on chip?: false
+Counter Access Time: 7846260
+Counter Actually Miss: 57.9293%
+Percentage of Predict on Chip, Predict Correct: 20.7633%
+Percentage of Predict on Chip, Predict Incorrect: 12.8597%
+Percentage of Predict off Chip, Predict Correct: 54.8321%
+Percentage of Predict off Chip, Predict Incorrect: 11.5448%
+Prediction Data correctness percentage: 75.5955%
+Predict on chip?: false
+Counter Access Time: 7846261
+Counter Actually Miss: 57.9293%
+Percentage of Predict on Chip, Predict Correct: 20.7633%
+Percentage of Predict on Chip, Predict Incorrect: 12.8597%
+Percentage of Predict off Chip, Predict Correct: 54.8322%
+Percentage of Predict off Chip, Predict Incorrect: 11.5448%
+Prediction Data correctness percentage: 75.5955%
+Predict on chip?: false
+Counter Access Time: 7846262
+Counter Actually Miss: 57.9293%
+Percentage of Predict on Chip, Predict Correct: 20.7633%
+Percentage of Predict on Chip, Predict Incorrect: 12.8597%
+Percentage of Predict off Chip, Predict Correct: 54.8322%
+Percentage of Predict off Chip, Predict Incorrect: 11.5448%
+Prediction Data correctness percentage: 75.5955%
+Predict on chip?: false
+Counter Access Time: 7846263
+Counter Actually Miss: 57.9293%
+Percentage of Predict on Chip, Predict Correct: 20.7633%
+Percentage of Predict on Chip, Predict Incorrect: 12.8597%
+Percentage of Predict off Chip, Predict Correct: 54.8322%
+Percentage of Predict off Chip, Predict Incorrect: 11.5448%
+Prediction Data correctness percentage: 75.5955%
+Predict on chip?: false
+Counter Access Time: 7846264
+Counter Actually Miss: 57.9293%
+Percentage of Predict on Chip, Predict Correct: 20.7633%
+Percentage of Predict on Chip, Predict Incorrect: 12.8597%
+Percentage of Predict off Chip, Predict Correct: 54.8322%
+Percentage of Predict off Chip, Predict Incorrect: 11.5448%
+Prediction Data correctness percentage: 75.5955%
+Predict on chip?: false
+Counter Access Time: 7846265
+Counter Actually Miss: 57.9293%
+Percentage of Predict on Chip, Predict Correct: 20.7633%
+Percentage of Predict on Chip, Predict Incorrect: 12.8597%
+Percentage of Predict off Chip, Predict Correct: 54.8322%
+Percentage of Predict off Chip, Predict Incorrect: 11.5448%
+Prediction Data correctness percentage: 75.5955%
+Predict on chip?: false
+Counter Access Time: 7846266
+Counter Actually Miss: 57.9293%
+Percentage of Predict on Chip, Predict Correct: 20.7633%
+Percentage of Predict on Chip, Predict Incorrect: 12.8597%
+Percentage of Predict off Chip, Predict Correct: 54.8322%
+Percentage of Predict off Chip, Predict Incorrect: 11.5448%
+Prediction Data correctness percentage: 75.5955%
+Predict on chip?: false
+Counter Access Time: 7846267
+Counter Actually Miss: 57.9293%
+Percentage of Predict on Chip, Predict Correct: 20.7633%
+Percentage of Predict on Chip, Predict Incorrect: 12.8597%
+Percentage of Predict off Chip, Predict Correct: 54.8322%
+Percentage of Predict off Chip, Predict Incorrect: 11.5448%
+Prediction Data correctness percentage: 75.5955%
+Predict on chip?: false
+Counter Access Time: 7846268
+Counter Actually Miss: 57.9293%
+Percentage of Predict on Chip, Predict Correct: 20.7633%
+Percentage of Predict on Chip, Predict Incorrect: 12.8597%
+Percentage of Predict off Chip, Predict Correct: 54.8322%
+Percentage of Predict off Chip, Predict Incorrect: 11.5448%
+Prediction Data correctness percentage: 75.5955%
+Predict on chip?: false
+Counter Access Time: 7846269
+Counter Actually Miss: 57.9294%
+Percentage of Predict on Chip, Predict Correct: 20.7633%
+Percentage of Predict on Chip, Predict Incorrect: 12.8597%
+Percentage of Predict off Chip, Predict Correct: 54.8322%
+Percentage of Predict off Chip, Predict Incorrect: 11.5448%
+Prediction Data correctness percentage: 75.5955%
+Predict on chip?: false
+Counter Access Time: 7846270
+Counter Actually Miss: 57.9294%
+Percentage of Predict on Chip, Predict Correct: 20.7633%
+Percentage of Predict on Chip, Predict Incorrect: 12.8597%
+Percentage of Predict off Chip, Predict Correct: 54.8322%
+Percentage of Predict off Chip, Predict Incorrect: 11.5448%
+Prediction Data correctness percentage: 75.5955%
+Predict on chip?: false
+Counter Access Time: 7846271
+Counter Actually Miss: 57.9294%
+Percentage of Predict on Chip, Predict Correct: 20.7633%
+Percentage of Predict on Chip, Predict Incorrect: 12.8597%
+Percentage of Predict off Chip, Predict Correct: 54.8322%
+Percentage of Predict off Chip, Predict Incorrect: 11.5448%
+Prediction Data correctness percentage: 75.5955%
+Predict on chip?: false
+Counter Access Time: 7846272
+Counter Actually Miss: 57.9294%
+Percentage of Predict on Chip, Predict Correct: 20.7633%
+Percentage of Predict on Chip, Predict Incorrect: 12.8597%
+Percentage of Predict off Chip, Predict Correct: 54.8322%
+Percentage of Predict off Chip, Predict Incorrect: 11.5448%
+Prediction Data correctness percentage: 75.5955%
+Predict on chip?: true
+Counter Access Time: 7846273
+Counter Actually Miss: 57.9294%
+Percentage of Predict on Chip, Predict Correct: 20.7633%
+Percentage of Predict on Chip, Predict Incorrect: 12.8597%
+Percentage of Predict off Chip, Predict Correct: 54.8322%
+Percentage of Predict off Chip, Predict Incorrect: 11.5448%
+Prediction Data correctness percentage: 75.5955%
+Predict on chip?: false
+Counter Access Time: 7846274
+Counter Actually Miss: 57.9294%
+Percentage of Predict on Chip, Predict Correct: 20.7633%
+Percentage of Predict on Chip, Predict Incorrect: 12.8597%
+Percentage of Predict off Chip, Predict Correct: 54.8322%
+Percentage of Predict off Chip, Predict Incorrect: 11.5448%
+Prediction Data correctness percentage: 75.5955%
+Predict on chip?: false
+Counter Access Time: 7846275
+Counter Actually Miss: 57.9294%
+Percentage of Predict on Chip, Predict Correct: 20.7633%
+Percentage of Predict on Chip, Predict Incorrect: 12.8597%
+Percentage of Predict off Chip, Predict Correct: 54.8322%
+Percentage of Predict off Chip, Predict Incorrect: 11.5448%
+Prediction Data correctness percentage: 75.5955%
+Predict on chip?: false
+Counter Access Time: 7846276
+Counter Actually Miss: 57.9294%
+Percentage of Predict on Chip, Predict Correct: 20.7633%
+Percentage of Predict on Chip, Predict Incorrect: 12.8597%
+Percentage of Predict off Chip, Predict Correct: 54.8322%
+Percentage of Predict off Chip, Predict Incorrect: 11.5448%
+Prediction Data correctness percentage: 75.5955%
+Predict on chip?: false
+Counter Access Time: 7846277
+Counter Actually Miss: 57.9294%
+Percentage of Predict on Chip, Predict Correct: 20.7633%
+Percentage of Predict on Chip, Predict Incorrect: 12.8597%
+Percentage of Predict off Chip, Predict Correct: 54.8322%
+Percentage of Predict off Chip, Predict Incorrect: 11.5447%
+Prediction Data correctness percentage: 75.5955%
+Predict on chip?: false
+Counter Access Time: 7846278
+Counter Actually Miss: 57.9294%
+Percentage of Predict on Chip, Predict Correct: 20.7633%
+Percentage of Predict on Chip, Predict Incorrect: 12.8597%
+Percentage of Predict off Chip, Predict Correct: 54.8322%
+Percentage of Predict off Chip, Predict Incorrect: 11.5447%
+Prediction Data correctness percentage: 75.5955%
+Predict on chip?: false
+Counter Access Time: 7846279
+Counter Actually Miss: 57.9294%
+Percentage of Predict on Chip, Predict Correct: 20.7633%
+Percentage of Predict on Chip, Predict Incorrect: 12.8597%
+Percentage of Predict off Chip, Predict Correct: 54.8322%
+Percentage of Predict off Chip, Predict Incorrect: 11.5447%
+Prediction Data correctness percentage: 75.5955%
+Predict on chip?: false
+Counter Access Time: 7846280
+Counter Actually Miss: 57.9294%
+Percentage of Predict on Chip, Predict Correct: 20.7633%
+Percentage of Predict on Chip, Predict Incorrect: 12.8597%
+Percentage of Predict off Chip, Predict Correct: 54.8322%
+Percentage of Predict off Chip, Predict Incorrect: 11.5447%
+Prediction Data correctness percentage: 75.5955%
+Predict on chip?: false
+Counter Access Time: 7846281
+Counter Actually Miss: 57.9294%
+Percentage of Predict on Chip, Predict Correct: 20.7633%
+Percentage of Predict on Chip, Predict Incorrect: 12.8597%
+Percentage of Predict off Chip, Predict Correct: 54.8322%
+Percentage of Predict off Chip, Predict Incorrect: 11.5447%
+Prediction Data correctness percentage: 75.5955%
+Predict on chip?: false
+Counter Access Time: 7846282
+Counter Actually Miss: 57.9294%
+Percentage of Predict on Chip, Predict Correct: 20.7633%
+Percentage of Predict on Chip, Predict Incorrect: 12.8597%
+Percentage of Predict off Chip, Predict Correct: 54.8322%
+Percentage of Predict off Chip, Predict Incorrect: 11.5447%
+Prediction Data correctness percentage: 75.5955%
+Predict on chip?: false
+Counter Access Time: 7846283
+Counter Actually Miss: 57.9294%
+Percentage of Predict on Chip, Predict Correct: 20.7633%
+Percentage of Predict on Chip, Predict Incorrect: 12.8597%
+Percentage of Predict off Chip, Predict Correct: 54.8322%
+Percentage of Predict off Chip, Predict Incorrect: 11.5447%
+Prediction Data correctness percentage: 75.5955%
+Predict on chip?: false
+Counter Access Time: 7846284
+Counter Actually Miss: 57.9294%
+Percentage of Predict on Chip, Predict Correct: 20.7633%
+Percentage of Predict on Chip, Predict Incorrect: 12.8597%
+Percentage of Predict off Chip, Predict Correct: 54.8322%
+Percentage of Predict off Chip, Predict Incorrect: 11.5447%
+Prediction Data correctness percentage: 75.5955%
+Predict on chip?: false
+Counter Access Time: 7846285
+Counter Actually Miss: 57.9294%
+Percentage of Predict on Chip, Predict Correct: 20.7633%
+Percentage of Predict on Chip, Predict Incorrect: 12.8597%
+Percentage of Predict off Chip, Predict Correct: 54.8323%
+Percentage of Predict off Chip, Predict Incorrect: 11.5447%
+Prediction Data correctness percentage: 75.5955%
+Predict on chip?: false
+Counter Access Time: 7846286
+Counter Actually Miss: 57.9294%
+Percentage of Predict on Chip, Predict Correct: 20.7633%
+Percentage of Predict on Chip, Predict Incorrect: 12.8597%
+Percentage of Predict off Chip, Predict Correct: 54.8323%
+Percentage of Predict off Chip, Predict Incorrect: 11.5447%
+Prediction Data correctness percentage: 75.5955%
+Predict on chip?: false
+Counter Access Time: 7846287
+Counter Actually Miss: 57.9294%
+Percentage of Predict on Chip, Predict Correct: 20.7633%
+Percentage of Predict on Chip, Predict Incorrect: 12.8597%
+Percentage of Predict off Chip, Predict Correct: 54.8323%
+Percentage of Predict off Chip, Predict Incorrect: 11.5447%
+Prediction Data correctness percentage: 75.5956%
+Predict on chip?: false
+Counter Access Time: 7846288
+Counter Actually Miss: 57.9294%
+Percentage of Predict on Chip, Predict Correct: 20.7633%
+Percentage of Predict on Chip, Predict Incorrect: 12.8597%
+Percentage of Predict off Chip, Predict Correct: 54.8323%
+Percentage of Predict off Chip, Predict Incorrect: 11.5447%
+Prediction Data correctness percentage: 75.5956%
+Predict on chip?: false
+Counter Access Time: 7846289
+Counter Actually Miss: 57.9294%
+Percentage of Predict on Chip, Predict Correct: 20.7633%
+Percentage of Predict on Chip, Predict Incorrect: 12.8597%
+Percentage of Predict off Chip, Predict Correct: 54.8323%
+Percentage of Predict off Chip, Predict Incorrect: 11.5447%
+Prediction Data correctness percentage: 75.5956%
+Predict on chip?: false
+Counter Access Time: 7846290
+Counter Actually Miss: 57.9294%
+Percentage of Predict on Chip, Predict Correct: 20.7633%
+Percentage of Predict on Chip, Predict Incorrect: 12.8597%
+Percentage of Predict off Chip, Predict Correct: 54.8323%
+Percentage of Predict off Chip, Predict Incorrect: 11.5447%
+Prediction Data correctness percentage: 75.5956%
+Predict on chip?: false
+Counter Access Time: 7846291
+Counter Actually Miss: 57.9294%
+Percentage of Predict on Chip, Predict Correct: 20.7633%
+Percentage of Predict on Chip, Predict Incorrect: 12.8597%
+Percentage of Predict off Chip, Predict Correct: 54.8323%
+Percentage of Predict off Chip, Predict Incorrect: 11.5447%
+Prediction Data correctness percentage: 75.5956%
+Predict on chip?: false
+Counter Access Time: 7846292
+Counter Actually Miss: 57.9294%
+Percentage of Predict on Chip, Predict Correct: 20.7633%
+Percentage of Predict on Chip, Predict Incorrect: 12.8597%
+Percentage of Predict off Chip, Predict Correct: 54.8323%
+Percentage of Predict off Chip, Predict Incorrect: 11.5447%
+Prediction Data correctness percentage: 75.5956%
+Predict on chip?: false
+Counter Access Time: 7846293
+Counter Actually Miss: 57.9294%
+Percentage of Predict on Chip, Predict Correct: 20.7633%
+Percentage of Predict on Chip, Predict Incorrect: 12.8597%
+Percentage of Predict off Chip, Predict Correct: 54.8323%
+Percentage of Predict off Chip, Predict Incorrect: 11.5447%
+Prediction Data correctness percentage: 75.5956%
+Predict on chip?: false
+Counter Access Time: 7846294
+Counter Actually Miss: 57.9294%
+Percentage of Predict on Chip, Predict Correct: 20.7633%
+Percentage of Predict on Chip, Predict Incorrect: 12.8597%
+Percentage of Predict off Chip, Predict Correct: 54.8323%
+Percentage of Predict off Chip, Predict Incorrect: 11.5447%
+Prediction Data correctness percentage: 75.5956%
+Predict on chip?: false
+Counter Access Time: 7846295
+Counter Actually Miss: 57.9294%
+Percentage of Predict on Chip, Predict Correct: 20.7633%
+Percentage of Predict on Chip, Predict Incorrect: 12.8597%
+Percentage of Predict off Chip, Predict Correct: 54.8323%
+Percentage of Predict off Chip, Predict Incorrect: 11.5447%
+Prediction Data correctness percentage: 75.5956%
+Predict on chip?: false
+Counter Access Time: 7846296
+Counter Actually Miss: 57.9294%
+Percentage of Predict on Chip, Predict Correct: 20.7633%
+Percentage of Predict on Chip, Predict Incorrect: 12.8597%
+Percentage of Predict off Chip, Predict Correct: 54.8323%
+Percentage of Predict off Chip, Predict Incorrect: 11.5447%
+Prediction Data correctness percentage: 75.5956%
+Predict on chip?: false
+Counter Access Time: 7846297
+Counter Actually Miss: 57.9294%
+Percentage of Predict on Chip, Predict Correct: 20.7633%
+Percentage of Predict on Chip, Predict Incorrect: 12.8597%
+Percentage of Predict off Chip, Predict Correct: 54.8323%
+Percentage of Predict off Chip, Predict Incorrect: 11.5447%
+Prediction Data correctness percentage: 75.5956%
+Predict on chip?: true
+Counter Access Time: 7846298
+Counter Actually Miss: 57.9294%
+Percentage of Predict on Chip, Predict Correct: 20.7633%
+Percentage of Predict on Chip, Predict Incorrect: 12.8597%
+Percentage of Predict off Chip, Predict Correct: 54.8323%
+Percentage of Predict off Chip, Predict Incorrect: 11.5447%
+Prediction Data correctness percentage: 75.5956%
+Predict on chip?: false
+Counter Access Time: 7846299
+Counter Actually Miss: 57.9294%
+Percentage of Predict on Chip, Predict Correct: 20.7633%
+Percentage of Predict on Chip, Predict Incorrect: 12.8597%
+Percentage of Predict off Chip, Predict Correct: 54.8323%
+Percentage of Predict off Chip, Predict Incorrect: 11.5447%
+Prediction Data correctness percentage: 75.5956%
+Predict on chip?: false
+Counter Access Time: 7846300
+Counter Actually Miss: 57.9294%
+Percentage of Predict on Chip, Predict Correct: 20.7633%
+Percentage of Predict on Chip, Predict Incorrect: 12.8597%
+Percentage of Predict off Chip, Predict Correct: 54.8323%
+Percentage of Predict off Chip, Predict Incorrect: 11.5447%
+Prediction Data correctness percentage: 75.5956%
+Predict on chip?: false
+Counter Access Time: 7846301
+Counter Actually Miss: 57.9294%
+Percentage of Predict on Chip, Predict Correct: 20.7633%
+Percentage of Predict on Chip, Predict Incorrect: 12.8597%
+Percentage of Predict off Chip, Predict Correct: 54.8323%
+Percentage of Predict off Chip, Predict Incorrect: 11.5447%
+Prediction Data correctness percentage: 75.5956%
+Predict on chip?: false
+Counter Access Time: 7846302
+Counter Actually Miss: 57.9294%
+Percentage of Predict on Chip, Predict Correct: 20.7633%
+Percentage of Predict on Chip, Predict Incorrect: 12.8597%
+Percentage of Predict off Chip, Predict Correct: 54.8323%
+Percentage of Predict off Chip, Predict Incorrect: 11.5447%
+Prediction Data correctness percentage: 75.5956%
+Predict on chip?: false
+Counter Access Time: 7846303
+Counter Actually Miss: 57.9294%
+Percentage of Predict on Chip, Predict Correct: 20.7633%
+Percentage of Predict on Chip, Predict Incorrect: 12.8597%
+Percentage of Predict off Chip, Predict Correct: 54.8323%
+Percentage of Predict off Chip, Predict Incorrect: 11.5447%
+Prediction Data correctness percentage: 75.5956%
+Predict on chip?: false
+Counter Access Time: 7846304
+Counter Actually Miss: 57.9294%
+Percentage of Predict on Chip, Predict Correct: 20.7633%
+Percentage of Predict on Chip, Predict Incorrect: 12.8597%
+Percentage of Predict off Chip, Predict Correct: 54.8323%
+Percentage of Predict off Chip, Predict Incorrect: 11.5447%
+Prediction Data correctness percentage: 75.5956%
+Predict on chip?: false
+Counter Access Time: 7846305
+Counter Actually Miss: 57.9294%
+Percentage of Predict on Chip, Predict Correct: 20.7633%
+Percentage of Predict on Chip, Predict Incorrect: 12.8597%
+Percentage of Predict off Chip, Predict Correct: 54.8323%
+Percentage of Predict off Chip, Predict Incorrect: 11.5447%
+Prediction Data correctness percentage: 75.5956%
+Predict on chip?: false
+Counter Access Time: 7846306
+Counter Actually Miss: 57.9295%
+Percentage of Predict on Chip, Predict Correct: 20.7632%
+Percentage of Predict on Chip, Predict Incorrect: 12.8597%
+Percentage of Predict off Chip, Predict Correct: 54.8323%
+Percentage of Predict off Chip, Predict Incorrect: 11.5447%
+Prediction Data correctness percentage: 75.5956%
+Predict on chip?: false
+Counter Access Time: 7846307
+Counter Actually Miss: 57.9295%
+Percentage of Predict on Chip, Predict Correct: 20.7632%
+Percentage of Predict on Chip, Predict Incorrect: 12.8597%
+Percentage of Predict off Chip, Predict Correct: 54.8323%
+Percentage of Predict off Chip, Predict Incorrect: 11.5447%
+Prediction Data correctness percentage: 75.5956%
+Predict on chip?: false
+Counter Access Time: 7846308
+Counter Actually Miss: 57.9295%
+Percentage of Predict on Chip, Predict Correct: 20.7632%
+Percentage of Predict on Chip, Predict Incorrect: 12.8597%
+Percentage of Predict off Chip, Predict Correct: 54.8323%
+Percentage of Predict off Chip, Predict Incorrect: 11.5447%
+Prediction Data correctness percentage: 75.5956%
+Predict on chip?: false
+Counter Access Time: 7846309
+Counter Actually Miss: 57.9295%
+Percentage of Predict on Chip, Predict Correct: 20.7632%
+Percentage of Predict on Chip, Predict Incorrect: 12.8597%
+Percentage of Predict off Chip, Predict Correct: 54.8324%
+Percentage of Predict off Chip, Predict Incorrect: 11.5447%
+Prediction Data correctness percentage: 75.5956%
+Predict on chip?: false
+Counter Access Time: 7846310
+Counter Actually Miss: 57.9295%
+Percentage of Predict on Chip, Predict Correct: 20.7632%
+Percentage of Predict on Chip, Predict Incorrect: 12.8597%
+Percentage of Predict off Chip, Predict Correct: 54.8324%
+Percentage of Predict off Chip, Predict Incorrect: 11.5447%
+Prediction Data correctness percentage: 75.5956%
+Predict on chip?: false
+Counter Access Time: 7846311
+Counter Actually Miss: 57.9295%
+Percentage of Predict on Chip, Predict Correct: 20.7632%
+Percentage of Predict on Chip, Predict Incorrect: 12.8597%
+Percentage of Predict off Chip, Predict Correct: 54.8324%
+Percentage of Predict off Chip, Predict Incorrect: 11.5447%
+Prediction Data correctness percentage: 75.5956%
+Predict on chip?: false
+Counter Access Time: 7846312
+Counter Actually Miss: 57.9295%
+Percentage of Predict on Chip, Predict Correct: 20.7632%
+Percentage of Predict on Chip, Predict Incorrect: 12.8597%
+Percentage of Predict off Chip, Predict Correct: 54.8324%
+Percentage of Predict off Chip, Predict Incorrect: 11.5447%
+Prediction Data correctness percentage: 75.5956%
+Predict on chip?: false
+Counter Access Time: 7846313
+Counter Actually Miss: 57.9295%
+Percentage of Predict on Chip, Predict Correct: 20.7632%
+Percentage of Predict on Chip, Predict Incorrect: 12.8597%
+Percentage of Predict off Chip, Predict Correct: 54.8324%
+Percentage of Predict off Chip, Predict Incorrect: 11.5447%
+Prediction Data correctness percentage: 75.5956%
+Predict on chip?: false
+Counter Access Time: 7846314
+Counter Actually Miss: 57.9295%
+Percentage of Predict on Chip, Predict Correct: 20.7632%
+Percentage of Predict on Chip, Predict Incorrect: 12.8597%
+Percentage of Predict off Chip, Predict Correct: 54.8324%
+Percentage of Predict off Chip, Predict Incorrect: 11.5447%
+Prediction Data correctness percentage: 75.5956%
+Predict on chip?: false
+Counter Access Time: 7846315
+Counter Actually Miss: 57.9295%
+Percentage of Predict on Chip, Predict Correct: 20.7632%
+Percentage of Predict on Chip, Predict Incorrect: 12.8597%
+Percentage of Predict off Chip, Predict Correct: 54.8324%
+Percentage of Predict off Chip, Predict Incorrect: 11.5447%
+Prediction Data correctness percentage: 75.5956%
+Predict on chip?: false
+Counter Access Time: 7846316
+Counter Actually Miss: 57.9295%
+Percentage of Predict on Chip, Predict Correct: 20.7632%
+Percentage of Predict on Chip, Predict Incorrect: 12.8597%
+Percentage of Predict off Chip, Predict Correct: 54.8324%
+Percentage of Predict off Chip, Predict Incorrect: 11.5447%
+Prediction Data correctness percentage: 75.5956%
+Predict on chip?: false
+Counter Access Time: 7846317
+Counter Actually Miss: 57.9295%
+Percentage of Predict on Chip, Predict Correct: 20.7632%
+Percentage of Predict on Chip, Predict Incorrect: 12.8597%
+Percentage of Predict off Chip, Predict Correct: 54.8324%
+Percentage of Predict off Chip, Predict Incorrect: 11.5447%
+Prediction Data correctness percentage: 75.5956%
+Predict on chip?: false
+Counter Access Time: 7846318
+Counter Actually Miss: 57.9295%
+Percentage of Predict on Chip, Predict Correct: 20.7632%
+Percentage of Predict on Chip, Predict Incorrect: 12.8597%
+Percentage of Predict off Chip, Predict Correct: 54.8324%
+Percentage of Predict off Chip, Predict Incorrect: 11.5447%
+Prediction Data correctness percentage: 75.5956%
+Predict on chip?: false
+Counter Access Time: 7846319
+Counter Actually Miss: 57.9295%
+Percentage of Predict on Chip, Predict Correct: 20.7632%
+Percentage of Predict on Chip, Predict Incorrect: 12.8597%
+Percentage of Predict off Chip, Predict Correct: 54.8324%
+Percentage of Predict off Chip, Predict Incorrect: 11.5447%
+Prediction Data correctness percentage: 75.5956%
+Predict on chip?: false
+Counter Access Time: 7846320
+Counter Actually Miss: 57.9295%
+Percentage of Predict on Chip, Predict Correct: 20.7632%
+Percentage of Predict on Chip, Predict Incorrect: 12.8597%
+Percentage of Predict off Chip, Predict Correct: 54.8324%
+Percentage of Predict off Chip, Predict Incorrect: 11.5447%
+Prediction Data correctness percentage: 75.5956%
+Predict on chip?: false
+Counter Access Time: 7846321
+Counter Actually Miss: 57.9295%
+Percentage of Predict on Chip, Predict Correct: 20.7632%
+Percentage of Predict on Chip, Predict Incorrect: 12.8597%
+Percentage of Predict off Chip, Predict Correct: 54.8324%
+Percentage of Predict off Chip, Predict Incorrect: 11.5447%
+Prediction Data correctness percentage: 75.5956%
+Predict on chip?: false
+Counter Access Time: 7846322
+Counter Actually Miss: 57.9294%
+Percentage of Predict on Chip, Predict Correct: 20.7632%
+Percentage of Predict on Chip, Predict Incorrect: 12.8597%
+Percentage of Predict off Chip, Predict Correct: 54.8324%
+Percentage of Predict off Chip, Predict Incorrect: 11.5447%
+Prediction Data correctness percentage: 75.5956%
+Predict on chip?: false
+Counter Access Time: 7846323
+Counter Actually Miss: 57.9295%
+Percentage of Predict on Chip, Predict Correct: 20.7632%
+Percentage of Predict on Chip, Predict Incorrect: 12.8597%
+Percentage of Predict off Chip, Predict Correct: 54.8324%
+Percentage of Predict off Chip, Predict Incorrect: 11.5447%
+Prediction Data correctness percentage: 75.5956%
+Predict on chip?: false
+Counter Access Time: 7846324
+Counter Actually Miss: 57.9295%
+Percentage of Predict on Chip, Predict Correct: 20.7632%
+Percentage of Predict on Chip, Predict Incorrect: 12.8597%
+Percentage of Predict off Chip, Predict Correct: 54.8324%
+Percentage of Predict off Chip, Predict Incorrect: 11.5447%
+Prediction Data correctness percentage: 75.5956%
+Predict on chip?: false
+Counter Access Time: 7846325
+Counter Actually Miss: 57.9295%
+Percentage of Predict on Chip, Predict Correct: 20.7632%
+Percentage of Predict on Chip, Predict Incorrect: 12.8597%
+Percentage of Predict off Chip, Predict Correct: 54.8324%
+Percentage of Predict off Chip, Predict Incorrect: 11.5447%
+Prediction Data correctness percentage: 75.5956%
+Predict on chip?: false
+Counter Access Time: 7846326
+Counter Actually Miss: 57.9295%
+Percentage of Predict on Chip, Predict Correct: 20.7632%
+Percentage of Predict on Chip, Predict Incorrect: 12.8597%
+Percentage of Predict off Chip, Predict Correct: 54.8324%
+Percentage of Predict off Chip, Predict Incorrect: 11.5447%
+Prediction Data correctness percentage: 75.5956%
+Predict on chip?: false
+Counter Access Time: 7846327
+Counter Actually Miss: 57.9295%
+Percentage of Predict on Chip, Predict Correct: 20.7632%
+Percentage of Predict on Chip, Predict Incorrect: 12.8597%
+Percentage of Predict off Chip, Predict Correct: 54.8324%
+Percentage of Predict off Chip, Predict Incorrect: 11.5447%
+Prediction Data correctness percentage: 75.5956%
+Predict on chip?: false
+Counter Access Time: 7846328
+Counter Actually Miss: 57.9295%
+Percentage of Predict on Chip, Predict Correct: 20.7632%
+Percentage of Predict on Chip, Predict Incorrect: 12.8597%
+Percentage of Predict off Chip, Predict Correct: 54.8324%
+Percentage of Predict off Chip, Predict Incorrect: 11.5447%
+Prediction Data correctness percentage: 75.5956%
+Predict on chip?: false
+Counter Access Time: 7846329
+Counter Actually Miss: 57.9295%
+Percentage of Predict on Chip, Predict Correct: 20.7632%
+Percentage of Predict on Chip, Predict Incorrect: 12.8597%
+Percentage of Predict off Chip, Predict Correct: 54.8324%
+Percentage of Predict off Chip, Predict Incorrect: 11.5447%
+Prediction Data correctness percentage: 75.5956%
+Predict on chip?: false
+Counter Access Time: 7846330
+Counter Actually Miss: 57.9295%
+Percentage of Predict on Chip, Predict Correct: 20.7632%
+Percentage of Predict on Chip, Predict Incorrect: 12.8597%
+Percentage of Predict off Chip, Predict Correct: 54.8324%
+Percentage of Predict off Chip, Predict Incorrect: 11.5447%
+Prediction Data correctness percentage: 75.5956%
+Predict on chip?: false
+Counter Access Time: 7846331
+Counter Actually Miss: 57.9295%
+Percentage of Predict on Chip, Predict Correct: 20.7632%
+Percentage of Predict on Chip, Predict Incorrect: 12.8597%
+Percentage of Predict off Chip, Predict Correct: 54.8325%
+Percentage of Predict off Chip, Predict Incorrect: 11.5447%
+Prediction Data correctness percentage: 75.5956%
+Predict on chip?: false
+Counter Access Time: 7846332
+Counter Actually Miss: 57.9295%
+Percentage of Predict on Chip, Predict Correct: 20.7632%
+Percentage of Predict on Chip, Predict Incorrect: 12.8597%
+Percentage of Predict off Chip, Predict Correct: 54.8325%
+Percentage of Predict off Chip, Predict Incorrect: 11.5447%
+Prediction Data correctness percentage: 75.5957%
+Predict on chip?: false
+Counter Access Time: 7846333
+Counter Actually Miss: 57.9295%
+Percentage of Predict on Chip, Predict Correct: 20.7632%
+Percentage of Predict on Chip, Predict Incorrect: 12.8597%
+Percentage of Predict off Chip, Predict Correct: 54.8325%
+Percentage of Predict off Chip, Predict Incorrect: 11.5447%
+Prediction Data correctness percentage: 75.5957%
+Predict on chip?: false
+Counter Access Time: 7846334
+Counter Actually Miss: 57.9294%
+Percentage of Predict on Chip, Predict Correct: 20.7632%
+Percentage of Predict on Chip, Predict Incorrect: 12.8597%
+Percentage of Predict off Chip, Predict Correct: 54.8325%
+Percentage of Predict off Chip, Predict Incorrect: 11.5447%
+Prediction Data correctness percentage: 75.5957%
+Predict on chip?: false
+Counter Access Time: 7846335
+Counter Actually Miss: 57.9295%
+Percentage of Predict on Chip, Predict Correct: 20.7632%
+Percentage of Predict on Chip, Predict Incorrect: 12.8597%
+Percentage of Predict off Chip, Predict Correct: 54.8325%
+Percentage of Predict off Chip, Predict Incorrect: 11.5447%
+Prediction Data correctness percentage: 75.5957%
+Predict on chip?: false
+Counter Access Time: 7846336
+Counter Actually Miss: 57.9295%
+Percentage of Predict on Chip, Predict Correct: 20.7632%
+Percentage of Predict on Chip, Predict Incorrect: 12.8597%
+Percentage of Predict off Chip, Predict Correct: 54.8325%
+Percentage of Predict off Chip, Predict Incorrect: 11.5447%
+Prediction Data correctness percentage: 75.5957%
+Predict on chip?: false
+Counter Access Time: 7846337
+Counter Actually Miss: 57.9295%
+Percentage of Predict on Chip, Predict Correct: 20.7632%
+Percentage of Predict on Chip, Predict Incorrect: 12.8597%
+Percentage of Predict off Chip, Predict Correct: 54.8325%
+Percentage of Predict off Chip, Predict Incorrect: 11.5447%
+Prediction Data correctness percentage: 75.5957%
+Predict on chip?: false
+Counter Access Time: 7846338
+Counter Actually Miss: 57.9295%
+Percentage of Predict on Chip, Predict Correct: 20.7632%
+Percentage of Predict on Chip, Predict Incorrect: 12.8597%
+Percentage of Predict off Chip, Predict Correct: 54.8325%
+Percentage of Predict off Chip, Predict Incorrect: 11.5447%
+Prediction Data correctness percentage: 75.5957%
+Predict on chip?: false
+Counter Access Time: 7846339
+Counter Actually Miss: 57.9295%
+Percentage of Predict on Chip, Predict Correct: 20.7632%
+Percentage of Predict on Chip, Predict Incorrect: 12.8597%
+Percentage of Predict off Chip, Predict Correct: 54.8325%
+Percentage of Predict off Chip, Predict Incorrect: 11.5447%
+Prediction Data correctness percentage: 75.5957%
+Predict on chip?: false
+Counter Access Time: 7846340
+Counter Actually Miss: 57.9295%
+Percentage of Predict on Chip, Predict Correct: 20.7632%
+Percentage of Predict on Chip, Predict Incorrect: 12.8597%
+Percentage of Predict off Chip, Predict Correct: 54.8325%
+Percentage of Predict off Chip, Predict Incorrect: 11.5447%
+Prediction Data correctness percentage: 75.5957%
+Predict on chip?: false
+Counter Access Time: 7846341
+Counter Actually Miss: 57.9295%
+Percentage of Predict on Chip, Predict Correct: 20.7632%
+Percentage of Predict on Chip, Predict Incorrect: 12.8597%
+Percentage of Predict off Chip, Predict Correct: 54.8325%
+Percentage of Predict off Chip, Predict Incorrect: 11.5447%
+Prediction Data correctness percentage: 75.5957%
+Predict on chip?: false
+Counter Access Time: 7846342
+Counter Actually Miss: 57.9295%
+Percentage of Predict on Chip, Predict Correct: 20.7632%
+Percentage of Predict on Chip, Predict Incorrect: 12.8596%
+Percentage of Predict off Chip, Predict Correct: 54.8325%
+Percentage of Predict off Chip, Predict Incorrect: 11.5447%
+Prediction Data correctness percentage: 75.5957%
+Predict on chip?: false
+Counter Access Time: 7846343
+Counter Actually Miss: 57.9295%
+Percentage of Predict on Chip, Predict Correct: 20.7632%
+Percentage of Predict on Chip, Predict Incorrect: 12.8596%
+Percentage of Predict off Chip, Predict Correct: 54.8325%
+Percentage of Predict off Chip, Predict Incorrect: 11.5447%
+Prediction Data correctness percentage: 75.5957%
+Predict on chip?: false
+Counter Access Time: 7846344
+Counter Actually Miss: 57.9295%
+Percentage of Predict on Chip, Predict Correct: 20.7632%
+Percentage of Predict on Chip, Predict Incorrect: 12.8596%
+Percentage of Predict off Chip, Predict Correct: 54.8325%
+Percentage of Predict off Chip, Predict Incorrect: 11.5447%
+Prediction Data correctness percentage: 75.5957%
+Predict on chip?: false
+Counter Access Time: 7846345
+Counter Actually Miss: 57.9295%
+Percentage of Predict on Chip, Predict Correct: 20.7632%
+Percentage of Predict on Chip, Predict Incorrect: 12.8596%
+Percentage of Predict off Chip, Predict Correct: 54.8325%
+Percentage of Predict off Chip, Predict Incorrect: 11.5447%
+Prediction Data correctness percentage: 75.5957%
+Predict on chip?: false
+Counter Access Time: 7846346
+Counter Actually Miss: 57.9295%
+Percentage of Predict on Chip, Predict Correct: 20.7632%
+Percentage of Predict on Chip, Predict Incorrect: 12.8596%
+Percentage of Predict off Chip, Predict Correct: 54.8325%
+Percentage of Predict off Chip, Predict Incorrect: 11.5447%
+Prediction Data correctness percentage: 75.5957%
+Predict on chip?: false
+Counter Access Time: 7846347
+Counter Actually Miss: 57.9295%
+Percentage of Predict on Chip, Predict Correct: 20.7632%
+Percentage of Predict on Chip, Predict Incorrect: 12.8596%
+Percentage of Predict off Chip, Predict Correct: 54.8325%
+Percentage of Predict off Chip, Predict Incorrect: 11.5447%
+Prediction Data correctness percentage: 75.5957%
+Predict on chip?: false
+Counter Access Time: 7846348
+Counter Actually Miss: 57.9295%
+Percentage of Predict on Chip, Predict Correct: 20.7632%
+Percentage of Predict on Chip, Predict Incorrect: 12.8596%
+Percentage of Predict off Chip, Predict Correct: 54.8325%
+Percentage of Predict off Chip, Predict Incorrect: 11.5447%
+Prediction Data correctness percentage: 75.5957%
+Predict on chip?: false
+Counter Access Time: 7846349
+Counter Actually Miss: 57.9295%
+Percentage of Predict on Chip, Predict Correct: 20.7632%
+Percentage of Predict on Chip, Predict Incorrect: 12.8596%
+Percentage of Predict off Chip, Predict Correct: 54.8325%
+Percentage of Predict off Chip, Predict Incorrect: 11.5447%
+Prediction Data correctness percentage: 75.5957%
+Predict on chip?: true
+Counter Access Time: 7846350
+Counter Actually Miss: 57.9295%
+Percentage of Predict on Chip, Predict Correct: 20.7632%
+Percentage of Predict on Chip, Predict Incorrect: 12.8596%
+Percentage of Predict off Chip, Predict Correct: 54.8325%
+Percentage of Predict off Chip, Predict Incorrect: 11.5447%
+Prediction Data correctness percentage: 75.5957%
+Predict on chip?: true
+Counter Access Time: 7846351
+Counter Actually Miss: 57.9295%
+Percentage of Predict on Chip, Predict Correct: 20.7632%
+Percentage of Predict on Chip, Predict Incorrect: 12.8597%
+Percentage of Predict off Chip, Predict Correct: 54.8325%
+Percentage of Predict off Chip, Predict Incorrect: 11.5447%
+Prediction Data correctness percentage: 75.5957%

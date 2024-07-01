@@ -1,0 +1,7 @@
+Global frequency set at 1000000000000 ticks per second
+warn: No dot file generated. Please install pydot to generate the dot file and pdf.
+src/base/statistics.hh:279: warn: One of the stats is a legacy stat. Legacy stat is a stat that does not belong to any statistics::Group. Legacy stat is deprecated.
+src/mem/cache/tags/indexing_policies/base.cc:65: fatal: fatal condition !isPowerOf2(numSets) occurred: # of sets must be non-zero and a power of 2
+Memory Usage: 33701944 KBytes
+build/X86/gem5.opt: error while loading shared libraries: libpython3.10.so.1.0: cannot open shared object file: No such file or directory
+build/X86/gem5.opt: error while loading shared libraries: libpython3.10.so.1.0: cannot open shared object file: No such file or directory

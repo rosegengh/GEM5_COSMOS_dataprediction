@@ -78,6 +78,7 @@ class MemCmd
     friend class Packet;
 
   public:
+
     /**
      * List of all commands associated with a packet.
      */
@@ -296,6 +297,8 @@ class Packet : public Printable, public Extensible<Packet>
   public:
     typedef uint32_t FlagsType;
     typedef gem5::Flags<FlagsType> Flags;
+
+    int bespoke = 0;
 
   private:
     enum : FlagsType

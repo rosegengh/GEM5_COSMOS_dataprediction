@@ -1,0 +1,152 @@
+L2 Cache Hit: 0x17ea80
+Current Cache Miss Rate: 66.32%
+L2 Cache Miss: 0x17e9c0
+Current Cache Miss Rate: 66.32%
+L3 Cache Miss: 0x17e9c0
+Current Cache Miss Rate: 91.32%
+Counter Cache Miss: 0x17e9c0
+Current Cache Miss Rate: 93.15%
+L2 Cache Miss: 0x17ea00
+Current Cache Miss Rate: 66.33%
+L3 Cache Miss: 0x17ea00
+Current Cache Miss Rate: 91.32%
+Counter Cache Miss: 0x17ea00
+Current Cache Miss Rate: 93.15%
+L2 Cache Miss: 0x2de800
+Current Cache Miss Rate: 66.33%
+L3 Cache Miss: 0x2de800
+Current Cache Miss Rate: 91.32%
+Counter Cache Miss: 0x2de800
+Current Cache Miss Rate: 93.15%
+L2 Cache Miss: 0x2de840
+Current Cache Miss Rate: 66.33%
+L3 Cache Miss: 0x2de840
+Current Cache Miss Rate: 91.32%
+Counter Cache Miss: 0x2de840
+Current Cache Miss Rate: 93.15%
+L2 Cache Miss: 0x2de880
+Current Cache Miss Rate: 66.33%
+L3 Cache Miss: 0x2de880
+Current Cache Miss Rate: 91.32%
+Counter Cache Miss: 0x2de880
+Current Cache Miss Rate: 93.15%
+L2 Cache Miss: 0x2de940
+Current Cache Miss Rate: 66.33%
+L3 Cache Miss: 0x2de940
+Current Cache Miss Rate: 91.32%
+Counter Cache Miss: 0x2de940
+Current Cache Miss Rate: 93.15%
+L2 Cache Miss: 0x2de980
+Current Cache Miss Rate: 66.33%
+L3 Cache Miss: 0x2de980
+Current Cache Miss Rate: 91.32%
+Counter Cache Miss: 0x2de980
+Current Cache Miss Rate: 93.15%
+L2 Cache Miss: 0x2de9c0
+Current Cache Miss Rate: 66.33%
+L3 Cache Miss: 0x2de9c0
+Current Cache Miss Rate: 91.32%
+Counter Cache Miss: 0x2de9c0
+Current Cache Miss Rate: 93.15%
+L2 Cache Miss: 0x2dea00
+Current Cache Miss Rate: 66.34%
+L3 Cache Miss: 0x2dea00
+Current Cache Miss Rate: 91.32%
+Counter Cache Miss: 0x2dea00
+Current Cache Miss Rate: 93.15%
+L2 Cache Miss: 0x2dea40
+Current Cache Miss Rate: 66.34%
+L3 Cache Miss: 0x2dea40
+Current Cache Miss Rate: 91.33%
+Counter Cache Miss: 0x2dea40
+Current Cache Miss Rate: 93.15%
+L2 Cache Miss: 0x2dec00
+Current Cache Miss Rate: 66.34%
+L3 Cache Miss: 0x2dec00
+Current Cache Miss Rate: 91.33%
+Counter Cache Miss: 0x2dec00
+Current Cache Miss Rate: 93.15%
+L2 Cache Miss: 0x2dea80
+Current Cache Miss Rate: 66.34%
+L3 Cache Miss: 0x2dea80
+Current Cache Miss Rate: 91.33%
+Counter Cache Miss: 0x2dea80
+Current Cache Miss Rate: 93.15%
+L2 Cache Miss: 0x2deb80
+Current Cache Miss Rate: 66.34%
+L3 Cache Miss: 0x2deb80
+Current Cache Miss Rate: 91.33%
+Counter Cache Miss: 0x2deb80
+Current Cache Miss Rate: 93.15%
+L2 Cache Miss: 0x2debc0
+Current Cache Miss Rate: 66.34%
+L3 Cache Miss: 0x2debc0
+Current Cache Miss Rate: 91.33%
+Counter Cache Miss: 0x2debc0
+Current Cache Miss Rate: 93.15%
+L2 Cache Miss: 0x2d1c40
+Current Cache Miss Rate: 66.34%
+L3 Cache Miss: 0x2d1c40
+Current Cache Miss Rate: 91.33%
+Counter Cache Miss: 0x2d1c40
+Current Cache Miss Rate: 93.16%
+L2 Cache Miss: 0x2cbfc0
+Current Cache Miss Rate: 66.34%
+L3 Cache Miss: 0x2cbfc0
+Current Cache Miss Rate: 91.33%
+Counter Cache Miss: 0x2cbfc0
+Current Cache Miss Rate: 93.16%
+L2 Cache Miss: 0x2de000
+Current Cache Miss Rate: 66.35%
+L3 Cache Miss: 0x2de000
+Current Cache Miss Rate: 91.33%
+Counter Cache Miss: 0x2de000
+Current Cache Miss Rate: 93.16%
+L2 Cache Miss: 0x2de040
+Current Cache Miss Rate: 66.35%
+L3 Cache Miss: 0x2de040
+Current Cache Miss Rate: 91.33%
+Counter Cache Miss: 0x2de040
+Current Cache Miss Rate: 93.16%
+L2 Cache Miss: 0x2de080
+Current Cache Miss Rate: 66.35%
+L3 Cache Miss: 0x2de080
+Current Cache Miss Rate: 91.33%
+Counter Cache Miss: 0x2de080
+Current Cache Miss Rate: 93.16%
+L2 Cache Miss: 0x2deac0
+Current Cache Miss Rate: 66.35%
+L3 Cache Miss: 0x2deac0
+Current Cache Miss Rate: 91.33%
+Counter Cache Miss: 0x2deac0
+Current Cache Miss Rate: 93.16%
+L2 Cache Miss: 0x2deb00
+Current Cache Miss Rate: 66.35%
+L3 Cache Miss: 0x2deb00
+Current Cache Miss Rate: 91.33%
+Counter Cache Miss: 0x2deb00
+Current Cache Miss Rate: 93.16%
+L2 Cache Miss: 0x17ea40
+Current Cache Miss Rate: 66.35%
+L3 Cache Miss: 0x17ea40
+Current Cache Miss Rate: 91.33%
+Counter Cache Hit: 0x17ea40
+Current Cache Miss Rate: 93.15%
+L2 Cache Miss: 0x2deb40
+Current Cache Miss Rate: 66.35%
+L3 Cache Miss: 0x2deb40
+Current Cache Miss Rate: 91.33%
+Counter Cache Miss: 0x2deb40
+Current Cache Miss Rate: 93.15%
+L2 Cache Miss: 0x2e6b80
+Current Cache Miss Rate: 66.36%
+L3 Cache Miss: 0x2e6b80
+Current Cache Miss Rate: 91.33%
+Counter Cache Miss: 0x2e6b80
+Current Cache Miss Rate: 93.15%
+L2 Cache Miss: 0x2e6bc0
+Current Cache Miss Rate: 66.36%
+L3 Cache Miss: 0x2e6bc0
+Current Cache Miss Rate: 91.33%
+Counter Cache Miss: 0x2e6bc0
+Current Cache Miss Rate: 93.15%

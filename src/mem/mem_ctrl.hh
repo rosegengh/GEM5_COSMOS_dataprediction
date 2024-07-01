@@ -46,6 +46,7 @@
 #ifndef __MEM_CTRL_HH__
 #define __MEM_CTRL_HH__
 
+#include <random>
 #include <deque>
 #include <string>
 #include <unordered_set>
